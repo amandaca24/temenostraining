@@ -1,0 +1,17 @@
+{
+    "AS_DataGrid_ce5ca4f771f24e569f4133d476ef11cd": {
+        "id": "AS_DataGrid_ce5ca4f771f24e569f4133d476ef11cd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_cc95b25a4de64d1e9d2ce4e5c26ec9f1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var self = this;\n\n        function INVOKE_SERVICE_cb46eaa2454b49ffa69c1a5c9cdaac22_Callback(status, GetNews) {\n          \n            console.log(GetNews);\n          \n            self.view.DataGrid0i0caf20f3a6648.data = [];\n            var newsList = [];\n         \n            for(var i = 0; i < GetNews.news_list.length; i++){\n                var newsItem = GetNews.news_list[i].news_item;\n              \n                var item = {};\n                item.col1 = newsItem.title;  \n              \n                newsList.push(item);\n            }\n          \n            self.view.DataGrid0i0caf20f3a6648.data = newsList;\n          \n            console.log(newsList);\n        }\n        //kony.application.showLoadingScreen(null, null, constants.LOADING_SCREEN_POSITION_FULL_SCREEN, true, true, {});\n        if (GetNews_inputparam == undefined) {\n            var GetNews_inputparam = {};\n        }\n        GetNews_inputparam[\"serviceID\"] = \"News$GetNews\";\n        var GetNews_httpheaders = {};\n        GetNews_inputparam[\"httpheaders\"] = GetNews_httpheaders;\n        var GetNews_httpconfigs = {};\n        GetNews_inputparam[\"httpconfig\"] = GetNews_httpconfigs;\n     \n        News$GetNews = mfintegrationsecureinvokerasync(GetNews_inputparam, \"News\", \"GetNews\", INVOKE_SERVICE_cb46eaa2454b49ffa69c1a5c9cdaac22_Callback);",
+            "parentId": null
+        }]
+    }
+}

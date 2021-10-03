@@ -1,0 +1,35 @@
+{
+    "AS_Segment_ja31fcdeb7b846e2bbc3f2e4adfea27e": {
+        "id": "AS_Segment_ja31fcdeb7b846e2bbc3f2e4adfea27e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "ic458cb8b57b4366ac6a91315dd72787"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ebea7bd2b7f841cbb57f20ca998114db",
+            "type": "NAVIGATE_TO_FORM",
+            "formKUID": "i50f02c4197248ed97099b4974f35197",
+            "projectName": "ProjetoTeste",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "enableNavigationObj": true,
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "AS_DataGrid_c0d5aab1e3034d0797b35fe1e000f25f": {
+        "id": "AS_DataGrid_c0d5aab1e3034d0797b35fe1e000f25f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "ic458cb8b57b4366ac6a91315dd72787"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__d5e6b5f3d99f425da169dce83ccdbe90",
+            "type": "NAVIGATE_TO_FORM",
+            "formKUID": "i50f02c4197248ed97099b4974f35197",
+            "projectName": "ProjetoTeste",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "enableNavigationObj": true,
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgNews": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "newsdetailimage1_2.png"
+            }
+        },
+        {
+            "imgNews": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "newsdetailimage2_2.png"
+            }
+        },
+        {
+            "imgNews": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "newsdetailimage3_2.png"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "g12d29be137144c09e2992c0ef6a46e4",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segImage",
+    "info": null,
+    "invokedProperty": "pageOnDotImage",
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "u9dd9783df9f4dfdb0a99f85f5d743c9",
+    "masterdata": {},
+    "mobile": {
+        "_data_": [
+            {
+                "Image0j5421d6ccf6e46": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "newsdetailimage1_2.png"
+                }
+            },
+            {
+                "Image0j5421d6ccf6e46": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "newsdetailimage2_2.png"
+                }
+            },
+            {
+                "Image0j5421d6ccf6e46": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "newsdetailimage3_2.png"
+                }
+            }
+        ],
+        "rowTemplateId": "ff5d9d5847fc4881bdd8935ad1f4d63d",
+        "rowtemplate": "FlexContainer0f6ec0fa04dea44",
+        "sectionHeaderTemplateId": null,
+        "selectionBehaviorConfig": null,
+        "widgetdatamap": {
+            "FlexContainer0f6ec0fa04dea44": "FlexContainer0f6ec0fa04dea44",
+            "Image0j5421d6ccf6e46": "Image0j5421d6ccf6e46"
+        }
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "flxNewsImage",
+    "pf": "userwidgetmodel",
+    "retainselection": false,
+    "rowTemplateId": null,
+    "rowcounter": 2,
+    "rowfocusskin": "s07bda5c35764b19a1cc2d153c35588c",
+    "rowskin": "s9c6e69f2d4243b4b65590cfb0eeb731",
+    "rowtemplate": null,
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s0834268a803410fb9e907e2e9284e77",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "separatorthickness": 0,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 750,
+        "widthRatio": 0
+    },
+    "viewtype": "pageview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexContainer0f6ec0fa04dea44": "FlexContainer0f6ec0fa04dea44",
+        "Image0j5421d6ccf6e46": "Image0j5421d6ccf6e46"
+    },
+    "zindex": 1
+}

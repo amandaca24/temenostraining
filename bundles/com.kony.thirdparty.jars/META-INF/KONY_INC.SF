@@ -1,0 +1,198 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: 114hYnHgM8djy2UPLjjd56TIyDJCB
+ PjfMeuxp6qv3v0=
+SHA-256-Digest-Manifest: sfgV3TFjsmgk4nTqwKtv5kazZ4gZrBnGH0VqO6wO/AA=
+Created-By: 1.8.0_191 (Oracle Corporation)
+
+Name: geronimo-stax-api_1.0_spec-1.0.jar
+SHA-256-Digest: Ia4XR+vzARr4wMJjXQn2DmyMPg8z0ZD1yWwNcbY1mhg=
+
+Name: plugin-cleaner.jar
+SHA-256-Digest: iIcINVZANipj5arUwHSgMKv0CrfFSPqpSQ7Z9Fx6vwk=
+
+Name: serializer.jar
+SHA-256-Digest: aV3A2a+J7bPTFS0CjBmt8g5j4th/OnILC8itftqKZrQ=
+
+Name: platform.properties
+SHA-256-Digest: K8a4NG5RU5/VhXXCp7SCEf/stdkSWOg9BT/JNABuCI8=
+
+Name: jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+SHA-256-Digest: I51KJlylU7zO2GHoUxChfWn+Y44Z0JpANc02uZCBavU=
+
+Name: commons-httpclient-3.1.jar
+SHA-256-Digest: Aw1kTeXA7dbPYKDdU+FiHs0wVN9viUwYaG21jTEx0xM=
+
+Name: activation.jar
+SHA-256-Digest: 9M8AN4rH1oB8jYqfVJEYNypYSxCWcVNFiJwyl0vqe3I=
+
+Name: jsr173_1.0_api.jar
+SHA-256-Digest: aPSpnHzsgNCYS91ZNfiapLZgxSq/Q4vlK9Yen9/jjd8=
+
+Name: AntelopeTasks_3.4.0.jar
+SHA-256-Digest: c5gvYmoZbs33HdPQ7dZTYi1+2O/UYNRn2G4/6T0SFNk=
+
+Name: JoSQL-2.1.jar
+SHA-256-Digest: 09tWH2e8erYB/wQwDPlLhec22ENUTYUhCJHaVjR+n04=
+
+Name: htmlparser-1.2.1.jar
+SHA-256-Digest: Z5IP20cUae1ds5k8x3ZtKEHmFwv2VnaZceP2wzOr7+M=
+
+Name: not-yet-commons-ssl-0.3.10.jar
+SHA-256-Digest: B8Y806GOsRhuyLThxykPTJhy0ZXa4azfB5B1FOZk+/o=
+
+Name: commons-codec-1.7.jar
+SHA-256-Digest: FOkYHw2FaxODPD0dzBAkGxsReUQgkdAwF+qHvedpQbk=
+
+Name: yuicompressor-2.4.6.jar
+SHA-256-Digest: znglErkB/GK2mYhW02xgUTvHonNeyVT3CZrveuEV1po=
+
+Name: dom4j-1.6.1.jar
+SHA-256-Digest: URQxKPKR0/THTpjehoHuGDQ1TbxJVkVhG/W6sp1m75A=
+
+Name: jetty-naming-6.1.3.jar
+SHA-256-Digest: ZxECAWg81fgGYIckCBbvV3ahIKXVjq0I5Fne5hlf4uI=
+
+Name: jackson-core-2.1.1.jar
+SHA-256-Digest: ImmQt1if4dmV64HeMCiK/kocDyaZBBIB1XSqwYdBnKs=
+
+Name: ezmorph-1.0.4.jar
+SHA-256-Digest: yMj0rpbPxlDvFLtSHvgAsDF8zfgM3EmaXxdXczjR+20=
+
+Name: json.jar
+SHA-256-Digest: 6sCBL3Zx2+S5L1KXVDiBiT3sNM21trrXmvezHYVasJE=
+
+Name: README.txt
+SHA-256-Digest: 4gnoi8DIiFEWyxTwBuJkQ9ICKUKR3yl97R+Aaptqg8s=
+
+Name: ant-contrib-0.6.jar
+SHA-256-Digest: 0/aYPSGJPkXnyNNtsXfZuvxMpHTfe4nr81KYWnzYNJI=
+
+Name: migration.jar
+SHA-256-Digest: pF/9+1WiNZH/MCsjoLfHlDlqBRC+VVxIXiOINnncO64=
+
+Name: xercesImpl.jar
+SHA-256-Digest: uh9fAh8tfBzXw/aPufQ76cCPJM+AhyV+ly5qrOYHTK0=
+
+Name: httpmime-4.1.1.jar
+SHA-256-Digest: XKOCtu3m0QcOn8AVhkzz6XxXQxHb2dh7PxoXE66MBWY=
+
+Name: mail-1.4.jar
+SHA-256-Digest: BZK22c5APIKJFUDfog1oy9Boky1uZcHnhHiMj5JZEfQ=
+
+Name: commons-collections-3.2.2.jar
+SHA-256-Digest: P2PFm25t7+kx1K/m8yILZyl8Ux3QBx7CAzrb+iFkI5w=
+
+Name: luaj-j2se-1.0.3.jar
+SHA-256-Digest: 5MgkKGbTM3lGAFt/0o2AER2hrQdwR6Vk36PzMdm7VZk=
+
+Name: json-simple-1.1.1.jar
+SHA-256-Digest: dJwPFEeEsoZiYzbv7d9nS1kGn77OlFvBDkBg0NG0A0o=
+
+Name: js.jar
+SHA-256-Digest: uzLOUPkPpV36NBMTQTmgkFD49eUvStD0YFaFZ+xz8MY=
+
+Name: core-3.1.1.jar
+SHA-256-Digest: sfUMvr3B0CMAdevJoW3PZpREFWKyvLDoiJVD4DLyZlE=
+
+Name: json-lib-2.2.1-jdk15.jar
+SHA-256-Digest: DVdmOTWMSUfC8JRn9DQz2L4p9YC6TywHJZ0njoHP0RY=
+
+Name: jaxrpc.jar
+SHA-256-Digest: 9/3maYyk2Ggwy3rBgMCgWzWTacP52eGxGnr+9CPlkho=
+
+Name: jetty-util-6.1.3.jar
+SHA-256-Digest: pqhtyfYsVCJkzGd3xYyONpUbXPbhKhaN3nQJF0CMPVs=
+
+Name: log4j-1.2.15.jar
+SHA-256-Digest: oIhwK1tB+3QMoEat0zV0IlzYsFAbd1wfIEHvb63CD80=
+
+Name: commons-lang-2.4.jar
+SHA-256-Digest: /yeI2ykAxQY7eekJXC4Hhe46/fHFcjDQHFQrYQPh8Aw=
+
+Name: ioscodegen.jar
+SHA-256-Digest: uu1Pfb+hzkC2Mt1xQ0oRSus0dmYoxxjUKkJrq489qKw=
+
+Name: velocity-dep-1.5.jar
+SHA-256-Digest: Vbc4Zc5GjrddbJ3Q1t1JVJRERi9xmmod4AdHXS06WBw=
+
+Name: wsdl4j-1.5.1.jar
+SHA-256-Digest: 8+HB+9V4C324DIJOCziOPk+Tp5pGPa3N77duIrZfuxs=
+
+Name: gentlyWEB-utils-1.1.jar
+SHA-256-Digest: AyPpVnqjSTzWMXcyUjWT5abHZ/N6zgVUYhOgR7YxLiQ=
+
+Name: servlet-api-2.5-6.1.3.jar
+SHA-256-Digest: eVfrBDDfgt5LdTKaTy+m3X+DHIb/UT6CwOXeupAwtd0=
+
+Name: hibernate-core-4.0.1.Final.jar
+SHA-256-Digest: jNXjjhP1ZVI5brh4c1v3NgIixjGxcOWRLWoWn7++kHo=
+
+Name: jetty-plus-6.1.3.jar
+SHA-256-Digest: GgZ/l1ekBqIy9LEsvsUZwuSsG4lY07BuQfpeY4XjLsg=
+
+Name: poi-scratchpad-3.7-20101029.jar
+SHA-256-Digest: FNQDiWyXn9YW+5XlWdIbNUb3Az09XKEaARztpcpxr24=
+
+Name: commons-discovery-0.2.jar
+SHA-256-Digest: zqsC/H2fOYvjPQgXXqWqGipBmQia4DOS4YtaNAsnsPo=
+
+Name: commons-logging-1.1.1.jar
+SHA-256-Digest: DLcj6ejz0Upx4Odub6c6g47gIyjmdPFTZz+P/dCfkUw=
+
+Name: antlr-3.3-complete.jar
+SHA-256-Digest: g5l3CqrwA0eAQyD1HzXUbPi5Z13L4TkEy6vLcbomaHU=
+
+Name: jsp-api-2.1.jar
+SHA-256-Digest: ulWVvmmKVA9wW5AhshvqOXR9ANQXY8Z1H9X2L0GU0qs=
+
+Name: poi-ooxml-3.17.jar
+SHA-256-Digest: /c13e59o0Efrs7Py0iplPmzKWIoIVK0jmernUMh+FVM=
+
+Name: gson-2.3.1.jar
+SHA-256-Digest: kP1FXSzaAmEujuud3PwEO3/RyHqcWodtATtV+HMTt6U=
+
+Name: NatTableExamples-1.0.1.jar
+SHA-256-Digest: 5FXaqGjJs4lnKjI4wypRYFnf8Axd/NJqyI6Hww0r1AI=
+
+Name: poi-ooxml-schemas-3.7-20101029.jar
+SHA-256-Digest: d/azTnuYVvcFNso952aao6wZbYIcX/0P+7pi8t+/t+w=
+
+Name: tcnodejsServer-1.0.jar
+SHA-256-Digest: +lcc8c5jG7bRPV67Ph3sbwui07TeYzf1Tt7VQryH/84=
+
+Name: jboss-logging-3.1.0.CR2.jar
+SHA-256-Digest: /2EJPymbxAXkdZcoFMZC/PtUsZZXxH/ByTM8AaUUm0E=
+
+Name: commons-codec-1.3.jar
+SHA-256-Digest: Pg1UyDvQhM3kYsp4I2JCyFItCbtVFNb2c2aysxJgCM8=
+
+Name: jetty-6.1.3.jar
+SHA-256-Digest: +DrXR9TmVzsD9UDt4zvU90rGzMy2V52VDdB4iR/chkQ=
+
+Name: jsp-2.1.jar
+SHA-256-Digest: UGwFqDstW5PV+37XYfK/5v7QG2MAzLF/409x7ipynQk=
+
+Name: Nebula-Grid_1.0.0.jar
+SHA-256-Digest: Vdbgm+eBbKIqKclZS9jXwC9pW5JQ7pwejo7RsXKp3vs=
+
+Name: junit-4.4.jar
+SHA-256-Digest: 1E9kwecbj6Z3bJ/Xc61wU1tM+SwMESkW9LgO1KWGl0Q=
+
+Name: xmlbeans-2.3.0.jar
+SHA-256-Digest: sxrZ/1WsulyLpVsSdNwS0gl/RmsAcXhKaRr9bPXedVk=
+
+Name: MINIFY_SPA.jar
+SHA-256-Digest: U8w34Zcd2//YQGXgtwjxqonqoXbLs11w92dMiY9TLwo=
+
+Name: translator.jar
+SHA-256-Digest: rPwAJ35SHXoI8HXkSD/1dmXY0Fp0dSaYHpMU6On2OmM=
+
+Name: jackson-annotations-2.1.1.jar
+SHA-256-Digest: ORnYIyIwxMzve1BZhYLRXRh7mqUukxOmL4uMW49CDJc=
+
+Name: commons-beanutils-1.9.2.jar
+SHA-256-Digest: 93y/phYoLw3aQ4Kh1uVrht1vW38yB6nLTRvI2vO90L8=
+
+Name: minifyspatemplates.jar
+SHA-256-Digest: dZDP+46idm6aaZtYmqozQDXWvkn9Tota0WQ3ndy+/Hc=
+

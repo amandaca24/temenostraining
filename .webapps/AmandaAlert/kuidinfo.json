@@ -1,0 +1,596 @@
+{
+    "idToKuidMapping": {
+        "androidwear": {},
+        "desktop": {},
+        "masters": {},
+        "mobile": {
+            "CopytempNewsDetails": "f1f52416095e4d538f43753bd1cdfdc4",
+            "CopytempSegRow": "b7dc3c5a3ed54f568de5a0dcb4dd2056",
+            "Form1": "g1fab9121fd14e55bfb3fd532dd41ac8",
+            "Form2": "f01c0bf81ea148e79aa83319709afd2b",
+            "SampleRowTemplate": "b5fa426ce8724562929ca54bb547dfbb",
+            "SampleSectionHeaderTemplate": "afcfb6cb559842b6b8ae77b833b161f3",
+            "tempNewsDetails": "ff5d9d5847fc4881bdd8935ad1f4d63d"
+        },
+        "skins": {
+            "ButtonSkinActive": "s04c0a1aa8dd4fbf93118a0c6e053375",
+            "ButtonSkinNormal": "sbd53e23f0984e3499a49b5f8b864617",
+            "CopyCopydefLabel0c943ddb82e9e48": "sbf4c8f8c10b4d3bb5e51b3015969ef8",
+            "CopyCopyseg2": "s86bdac5c9cb4a3e9ea8b01a1ea3ae0c",
+            "CopyCopyseg3": "s1dafb52d1f146e39042e3b87cb8b6d9",
+            "CopyCopysknFlxfff": "sb8516693b81426aba32c509d0e07ff8",
+            "CopyCopyslForm5": "s76c4d2eb92d4523bcf5ca3d10280efb",
+            "CopyCopyslImage1": "s1cce7f0de564c389ec314dcd85dda87",
+            "CopyCopyslLabel": "s86bf6ed80f34390b75569de39c51f13",
+            "CopyCopyslLabel1": "s9483de88cf94ed589a3209a3b787ab2",
+            "CopyCopyslTitleBar5": "scac02c551ed461fb569e559a34fbcdb",
+            "CopyCopysliPhoneSegmentHeader1": "s85cc76a8c8f46aea9f9e97c6854271f",
+            "CopydefBtnNormal0a18963ebcf204b": "s46e05adddc14f338086a6265b7a10ac",
+            "CopydefLabel0bf0aa2e41da149": "sedc718eb5854038a91b883a796e7bbc",
+            "CopydefLabel0cbcedada202f46": "s25fcd2521444ca99d1b930c64d00eff",
+            "CopydefLabel0cbf2c5dcabff4a": "sb8476387cb04c88afae10a8bd582e44",
+            "CopydefLabel0e1be6982ab9941": "s183d73172664c2299b0ecca712bc4b7",
+            "CopydefLabel0fa7c21b3ee3644": "sa90a6f9cdde40cb9524a9cdb8d52ced",
+            "CopydefLabel0fb68f2cd41a34e": "s0cf0bbdf254420092daff973555a907",
+            "CopydefLabel0g8141bf085a742": "s90176e599a54d6287f067c23eb090d0",
+            "CopydefLabel0h66fa9cc00dc4f": "s371df587abf4614baa3cbb2488f7da3",
+            "CopydefLabel0i8889f5451524b": "sc0f119e383743818498a2d8c093e03e",
+            "CopydefLabel0ib3f85bc57a245": "s7072baa9a3142c3aa2b4ef9344a4279",
+            "CopykonympALsknLblStrip": "s2bfee81e6d840d79755ca2e0b5337d6",
+            "Copyseg0f29b39e25f5543": "s5227d92fb1743749f0aeddad98cfb7b",
+            "CopysknDateTime": "s0712c0dde2f41028103a14ef9005826",
+            "CopysknLblHeading": "se1f5d6b31f4488b9d8f914556cd201c",
+            "CopysknLblNewsBy": "s59162d2c0a242eb9fa7d342d00df6a4",
+            "CopysknLblNewsTitle": "s5581fd37e3d490692f0d7beee9b813a",
+            "CopysknNewsAuthor": "s511a9ab1b0a4e36b81f9c07baf9ecc3",
+            "CopysknNewsDetails": "s4b1e845aa824ec588649579978777f8",
+            "CopysknNewsDetails1": "s5c68941d3dc489a8d6e92631eaebf8b",
+            "CopysknNewsText": "s25f8759780e464eb7563463fc7c9dea",
+            "CopyslFbox0a9b1043350d544": "sba4cda2b22e45b294844db53ef45e92",
+            "CopyslFbox0b86281bc01f341": "s6e363b3571243c69d316e14da8a0619",
+            "CopyslFbox0ba6377be578f4b": "s2705f530c484a5d9c32f327d5dbb146",
+            "CopyslFbox0c6be40dcb2004d": "s261a892237a4f3aaf3df97fd9e848c5",
+            "CopyslFbox0c7e54da5da6c45": "sc87fd525ae44f6e82db9a8cda033214",
+            "CopyslFbox0cbfe19e0604e44": "s3e143834f8849579fd33ba7d731f8c0",
+            "CopyslFbox0e356b42fe1574a": "sdbe6bf01f934228ba4b00d4a1a1622a",
+            "CopyslFbox0e87dd617ff5a41": "s1269f1f8fdc43c6912a27db1b2e6a60",
+            "CopyslFbox0f54e6831b2364d": "sc92783b23b441bbb52bcf5fa28b6b13",
+            "CopyslFbox0h819ee2043fa41": "se247aacb5c1460f990f65f1f23a5568",
+            "CopyslForm": "s3fa815b8817454e99da8f531f537771",
+            "CopyslTitleBar": "s9d95d0ba5f744e9901c43bbb23c46d6",
+            "NotesBoxSingleLineFocusSkin": "sf2d34f51c1c4036b90598c8f4c41494",
+            "NotesBoxSingleLineNormalSkin": "se0bb4846eb946428f61c53813d07770",
+            "defLabel": "s9ddd4a68b244e0ba7cc6d82e801b63a",
+            "defLabel0j17e0eb7d06943": "s5bcad9f59fe4345938faee47772f3bd",
+            "defListBoxFocus": "s1a4731978cd41bab8dd59e8a77d33f6",
+            "defListBoxNormal": "se1667e3e97f46ffb9e6266416d66788",
+            "defTextAreaFocus": "s7e131a489ed4c7c953f3084f7b84352",
+            "defTextAreaNormal": "s7d9296201d343a0b5e4b14dddfccaaa",
+            "defTextAreaPlaceholder": "s7aa68dcb3394dcda889ed60f6f96b8d",
+            "headerBackIconSkin": "sc87ca809c54446fa437a578b16cac20",
+            "headerButtonBackSkin": "s8f2a5650c404528ad9d5ce068a7bc45",
+            "headerButtonBackSkin0eef9b3df2ef949": "sc585ec1ef3645db83fea18aaeb799f2",
+            "headerButtonClearSkin": "s6c81f0bd15c439395f974ff8a254fc7",
+            "headerButtonClearSkin0c2aec6161e3640": "sdb2dec6cbf94156957f20965bf28162",
+            "headerButtonSkin0j09c9a35d48048": "s36db985b3ed4185826b3e79242d5d4c",
+            "headerCartIconSkin": "s2ca93dda04b4eb9a23c77626903f98c",
+            "headerContainerSknMaster": "sea1b32739f3489d806c42f35e7dadd3",
+            "headerIconCartSkin": "s0696c3010af4a22814c5ede15ab175c",
+            "headerIconCartSkin0e877bc4736b44c": "sf530de7b9d34ca7a4481c0cb9368523",
+            "headerIconCartSkin0j62e6356a1ad4f": "s6d3fc569c1947f8b78f9dec16bdab52",
+            "headerPlusIconSkin": "s17a4fdf2e1f4cf6bd6f0a90d396a178",
+            "headerTitleSkinMaster": "s7a841dab08e4a018f7b6a9ac5313019",
+            "s04c0a1aa8dd4fbf93118a0c6e053375": "s69518fb412d4771948ff571de5dde4e",
+            "s0696c3010af4a22814c5ede15ab175c": "s41000d169064a7094738e1a0829204c",
+            "s16e059316674608b0a48e57d85e2c2c": "s961309cc0c549728a73862ebc1e9008",
+            "s6c81f0bd15c439395f974ff8a254fc7": "s9ba29303a2d444d906109f402574eda",
+            "s7a841dab08e4a018f7b6a9ac5313019": "s3816b43d7984e319ebfb7007b7502f0",
+            "sbd53e23f0984e3499a49b5f8b864617": "sae496e1300441078b6a8b4a67c1013e",
+            "sea1b32739f3489d806c42f35e7dadd3": "s6554925e71340c384273af82751418a",
+            "seg0b3ef60e764014c": "s5528dda1a4248959701ac432c2bb205",
+            "seg0d20f6edea8ae48": "saf63aaec88d4dc9a3d9748b0671fce6",
+            "seg0e915fad2672f42": "sa630a340005482ca3a9dde4cc1defa4",
+            "seg2Focus": "s07bda5c35764b19a1cc2d153c35588c",
+            "seg2Normal": "s9c6e69f2d4243b4b65590cfb0eeb731",
+            "sepLineSkin0h2238caa6e9e4b": "safcbe82dfcf45b7945170b05eb5e250",
+            "sknDateTime": "sbfb263627ef4405a21826f5c4512770",
+            "sknLblDescription": "sf1e69a8518844489dee64f81ba6ac94",
+            "sknLblNewsBy": "sb3136b412ea48f7bc6f6a26dbea0ce3",
+            "sknLblNewsTitle": "scd526ae6cab4bce81d03fd017cc8176",
+            "sknLblRowHeading": "s669fd59dee6486b9df5af77562aae47",
+            "sknLblStrip": "sd916b9d0e43432c857dcafe5d942f35",
+            "sknLblTimeStamp": "sbd8a0d604e64326afdcabc6cecab4cb",
+            "sknNewsAuthor": "s0d33e5f09be4b6f874b9844732615e9",
+            "sknNewsDetails": "s896708dfb8e419c8fcf345a3e188fcf",
+            "sknNewsText": "s8a44d394d0b44d79c61fd2f25647a9b",
+            "sknSampleRowTemplate": "s692ebbf42b14ef682abaa1331c0c0a5",
+            "sknSampleSectionHeaderTemplate": "sd783d7c79af402a8f9dcf1b40fdd0e0",
+            "sknSectionHeaderLabelSkin": "sc57eecc5deb4c8fafa393e1febd5d5b",
+            "slButtonTransBlue": "sca5eb99c14944bd977eaa0f3fb8fb1c",
+            "slButtonTransGrey": "s9de4d885ed242c4a3228fc0ef52a479",
+            "slDataGridAltRow": "s02eaef3a0d64ce1a1aef6b92a33950d",
+            "slDataGridFocusedRow": "s65a7fa759ab49da9672d172985843d0",
+            "slDataGridHead": "s94be3dd6b1f4ecb8fa2372563c2cbf0",
+            "slDataGridRow": "s8f9d05c9dbe4c019cde041e0ee6cba9",
+            "slDynamicNotificationForm": "s2f6dd81097b4447b4b72c7cdc244c25",
+            "slFbox": "s7ead3f998b343b18e17d322838844d9",
+            "slFbox0a6262c0b9f6145": "se28303c110846b3a45d6ce9d08bb1eb",
+            "slFbox0a70f3f7bff9b44": "se984f171bc64be489a6c4afcb79548a",
+            "slFbox0adee9583a1c549": "sf6ed3d6a8ae4ab0ae765a4581bdbe8b",
+            "slFbox0d54a73a63d3f46": "secf0550a0d64f7a901d35e7397df105",
+            "slFbox0eca24adcdd4647": "s52ac5fa5309473ab79559bd62a9441f",
+            "slFbox0f8fcdadc490047": "sa1ef66b271a4ac7ad87fcb3eb8104e9",
+            "slFbox0i459d967392543": "s5d1a2a3cf1b440aa9cbd4d5131dfb5b",
+            "slFbox0i529eee62b7a41": "s27a0c5f9836491ab8646125bb9060ba",
+            "slForm": "s003ad81c560414ab2ab43fac835f98f",
+            "slImage": "sac7cc0265504dddafbee9b3dca3857f",
+            "slImage0a0553a03ffc844": "s45ea1881c22496d9175e1ee4a1a23c5",
+            "slImage0a33c2f937ffb43": "se90e4e929834633b4a7a7022302a16d",
+            "slImage0db47405b3ef240": "s85d74092e524696aa46d0c2b8848f80",
+            "slPickerView": "sc521e56db354d278442f184a018283e",
+            "slSplashiOS": "s275cb7e6d3f47079a907a37f218b9c6",
+            "slStaticNotificationForm": "s419572ab7d14ea78b7bfc30a98a00b6",
+            "slTitleBar": "sd047192c87f4bd09ac1efd4269254a5",
+            "slWatchForm": "sa96467dc0324a9fa1f3c2c5d9d0a0d7",
+            "sliPhoneSegmentHeader": "s0834268a803410fb9e907e2e9284e77",
+            "sliPhoneSegmentHeader0ife99a4bee8346": "s8b87b8a2f7b49a08b91b30980e8dcb6",
+            "sliPhoneSegmentHeader0j02c6f3591dd4d": "s5e518e817834f758a561dbc588edf10",
+            "whiteContainerSkin0gf988f8d7b4a47": "sf73de523279487480cd8cce0179f0db"
+        },
+        "tablet": {},
+        "userwidgets": {
+            "ListView.AlertsWithoutThumbnails": "ub5d870415ca4015905612d8cadbdd87",
+            "com.konymp.newsdetails": "u4da20672f374536baac09141bc7ecba",
+            "com.konymp.newsdetailsCopy": "u4f71311f371484ea4349fda66e86bfa"
+        }
+    },
+    "kuidDependencyMap": {
+        "b7dc3c5a3ed54f568de5a0dcb4dd2056": [
+            "ub5d870415ca4015905612d8cadbdd87"
+        ],
+        "f1f52416095e4d538f43753bd1cdfdc4": [
+            "u4f71311f371484ea4349fda66e86bfa"
+        ],
+        "ff5d9d5847fc4881bdd8935ad1f4d63d": [
+            "u4da20672f374536baac09141bc7ecba"
+        ],
+        "s003ad81c560414ab2ab43fac835f98f": [
+            "g1fab9121fd14e55bfb3fd532dd41ac8",
+            "f01c0bf81ea148e79aa83319709afd2b"
+        ],
+        "s04c0a1aa8dd4fbf93118a0c6e053375": [
+            "g1fab9121fd14e55bfb3fd532dd41ac8",
+            "f01c0bf81ea148e79aa83319709afd2b"
+        ],
+        "s0696c3010af4a22814c5ede15ab175c": [
+            "g1fab9121fd14e55bfb3fd532dd41ac8",
+            "f01c0bf81ea148e79aa83319709afd2b"
+        ],
+        "s0712c0dde2f41028103a14ef9005826": [
+            "u4f71311f371484ea4349fda66e86bfa"
+        ],
+        "s07bda5c35764b19a1cc2d153c35588c": [
+            "u4da20672f374536baac09141bc7ecba",
+            "u4f71311f371484ea4349fda66e86bfa"
+        ],
+        "s0834268a803410fb9e907e2e9284e77": [
+            "u4da20672f374536baac09141bc7ecba",
+            "u4f71311f371484ea4349fda66e86bfa"
+        ],
+        "s0d33e5f09be4b6f874b9844732615e9": [
+            "u4da20672f374536baac09141bc7ecba"
+        ],
+        "s1269f1f8fdc43c6912a27db1b2e6a60": [
+            "f01c0bf81ea148e79aa83319709afd2b"
+        ],
+        "s16e059316674608b0a48e57d85e2c2c": [
+            "f01c0bf81ea148e79aa83319709afd2b"
+        ],
+        "s17a4fdf2e1f4cf6bd6f0a90d396a178": [
+            "f01c0bf81ea148e79aa83319709afd2b"
+        ],
+        "s1cce7f0de564c389ec314dcd85dda87": [
+            "b7dc3c5a3ed54f568de5a0dcb4dd2056"
+        ],
+        "s1dafb52d1f146e39042e3b87cb8b6d9": [
+            "ub5d870415ca4015905612d8cadbdd87"
+        ],
+        "s25f8759780e464eb7563463fc7c9dea": [
+            "u4f71311f371484ea4349fda66e86bfa"
+        ],
+        "s2bfee81e6d840d79755ca2e0b5337d6": [
+            "b7dc3c5a3ed54f568de5a0dcb4dd2056"
+        ],
+        "s2ca93dda04b4eb9a23c77626903f98c": [
+            "g1fab9121fd14e55bfb3fd532dd41ac8"
+        ],
+        "s4b1e845aa824ec588649579978777f8": [
+            "u4f71311f371484ea4349fda66e86bfa"
+        ],
+        "s511a9ab1b0a4e36b81f9c07baf9ecc3": [
+            "u4f71311f371484ea4349fda66e86bfa"
+        ],
+        "s52ac5fa5309473ab79559bd62a9441f": [
+            "f01c0bf81ea148e79aa83319709afd2b"
+        ],
+        "s5581fd37e3d490692f0d7beee9b813a": [
+            "u4f71311f371484ea4349fda66e86bfa"
+        ],
+        "s59162d2c0a242eb9fa7d342d00df6a4": [
+            "u4f71311f371484ea4349fda66e86bfa"
+        ],
+        "s5c68941d3dc489a8d6e92631eaebf8b": [
+            "u4da20672f374536baac09141bc7ecba"
+        ],
+        "s5d1a2a3cf1b440aa9cbd4d5131dfb5b": [
+            "g1fab9121fd14e55bfb3fd532dd41ac8"
+        ],
+        "s669fd59dee6486b9df5af77562aae47": [
+            "b5fa426ce8724562929ca54bb547dfbb"
+        ],
+        "s692ebbf42b14ef682abaa1331c0c0a5": [
+            "b5fa426ce8724562929ca54bb547dfbb"
+        ],
+        "s6c81f0bd15c439395f974ff8a254fc7": [
+            "g1fab9121fd14e55bfb3fd532dd41ac8",
+            "f01c0bf81ea148e79aa83319709afd2b"
+        ],
+        "s7a841dab08e4a018f7b6a9ac5313019": [
+            "g1fab9121fd14e55bfb3fd532dd41ac8",
+            "f01c0bf81ea148e79aa83319709afd2b"
+        ],
+        "s7ead3f998b343b18e17d322838844d9": [
+            "u4da20672f374536baac09141bc7ecba",
+            "u4f71311f371484ea4349fda66e86bfa",
+            "f1f52416095e4d538f43753bd1cdfdc4",
+            "ff5d9d5847fc4881bdd8935ad1f4d63d"
+        ],
+        "s85cc76a8c8f46aea9f9e97c6854271f": [
+            "ub5d870415ca4015905612d8cadbdd87"
+        ],
+        "s85d74092e524696aa46d0c2b8848f80": [
+            "g1fab9121fd14e55bfb3fd532dd41ac8"
+        ],
+        "s86bdac5c9cb4a3e9ea8b01a1ea3ae0c": [
+            "ub5d870415ca4015905612d8cadbdd87"
+        ],
+        "s86bf6ed80f34390b75569de39c51f13": [
+            "b7dc3c5a3ed54f568de5a0dcb4dd2056"
+        ],
+        "s8a44d394d0b44d79c61fd2f25647a9b": [
+            "u4da20672f374536baac09141bc7ecba"
+        ],
+        "s8f2a5650c404528ad9d5ce068a7bc45": [
+            "f01c0bf81ea148e79aa83319709afd2b"
+        ],
+        "s9483de88cf94ed589a3209a3b787ab2": [
+            "b7dc3c5a3ed54f568de5a0dcb4dd2056"
+        ],
+        "s9c6e69f2d4243b4b65590cfb0eeb731": [
+            "u4da20672f374536baac09141bc7ecba",
+            "u4f71311f371484ea4349fda66e86bfa"
+        ],
+        "s9de4d885ed242c4a3228fc0ef52a479": [
+            "f01c0bf81ea148e79aa83319709afd2b"
+        ],
+        "sa1ef66b271a4ac7ad87fcb3eb8104e9": [
+            "g1fab9121fd14e55bfb3fd532dd41ac8"
+        ],
+        "sac7cc0265504dddafbee9b3dca3857f": [
+            "f1f52416095e4d538f43753bd1cdfdc4",
+            "ff5d9d5847fc4881bdd8935ad1f4d63d"
+        ],
+        "sb3136b412ea48f7bc6f6a26dbea0ce3": [
+            "u4da20672f374536baac09141bc7ecba"
+        ],
+        "sb8516693b81426aba32c509d0e07ff8": [
+            "ub5d870415ca4015905612d8cadbdd87",
+            "b7dc3c5a3ed54f568de5a0dcb4dd2056"
+        ],
+        "sbd53e23f0984e3499a49b5f8b864617": [
+            "g1fab9121fd14e55bfb3fd532dd41ac8",
+            "f01c0bf81ea148e79aa83319709afd2b"
+        ],
+        "sbd8a0d604e64326afdcabc6cecab4cb": [
+            "b5fa426ce8724562929ca54bb547dfbb"
+        ],
+        "sbfb263627ef4405a21826f5c4512770": [
+            "u4da20672f374536baac09141bc7ecba"
+        ],
+        "sc57eecc5deb4c8fafa393e1febd5d5b": [
+            "afcfb6cb559842b6b8ae77b833b161f3"
+        ],
+        "sc87ca809c54446fa437a578b16cac20": [
+            "f01c0bf81ea148e79aa83319709afd2b"
+        ],
+        "sc92783b23b441bbb52bcf5fa28b6b13": [
+            "g1fab9121fd14e55bfb3fd532dd41ac8"
+        ],
+        "sca5eb99c14944bd977eaa0f3fb8fb1c": [
+            "f01c0bf81ea148e79aa83319709afd2b"
+        ],
+        "scd526ae6cab4bce81d03fd017cc8176": [
+            "u4da20672f374536baac09141bc7ecba"
+        ],
+        "sd047192c87f4bd09ac1efd4269254a5": [
+            "g1fab9121fd14e55bfb3fd532dd41ac8",
+            "f01c0bf81ea148e79aa83319709afd2b"
+        ],
+        "sd783d7c79af402a8f9dcf1b40fdd0e0": [
+            "afcfb6cb559842b6b8ae77b833b161f3"
+        ],
+        "sd916b9d0e43432c857dcafe5d942f35": [
+            "b5fa426ce8724562929ca54bb547dfbb"
+        ],
+        "se0bb4846eb946428f61c53813d07770": [
+            "f01c0bf81ea148e79aa83319709afd2b"
+        ],
+        "se1f5d6b31f4488b9d8f914556cd201c": [
+            "b7dc3c5a3ed54f568de5a0dcb4dd2056"
+        ],
+        "se247aacb5c1460f990f65f1f23a5568": [
+            "g1fab9121fd14e55bfb3fd532dd41ac8"
+        ],
+        "se28303c110846b3a45d6ce9d08bb1eb": [
+            "f01c0bf81ea148e79aa83319709afd2b"
+        ],
+        "sea1b32739f3489d806c42f35e7dadd3": [
+            "g1fab9121fd14e55bfb3fd532dd41ac8",
+            "f01c0bf81ea148e79aa83319709afd2b"
+        ],
+        "secf0550a0d64f7a901d35e7397df105": [
+            "f01c0bf81ea148e79aa83319709afd2b"
+        ],
+        "sf1e69a8518844489dee64f81ba6ac94": [
+            "b5fa426ce8724562929ca54bb547dfbb"
+        ],
+        "sf2d34f51c1c4036b90598c8f4c41494": [
+            "f01c0bf81ea148e79aa83319709afd2b"
+        ]
+    },
+    "kuidInfo": {
+        "androidwear": {},
+        "desktop": {},
+        "masters": {},
+        "mobile": {
+            "afcfb6cb559842b6b8ae77b833b161f3": {
+                "appName": "AmandaAlert",
+                "id": "SampleSectionHeaderTemplate",
+                "templateType": "segments",
+                "topFlexId": "flxSectionHeaderTemplate"
+            },
+            "b5fa426ce8724562929ca54bb547dfbb": {
+                "appName": "AmandaAlert",
+                "id": "SampleRowTemplate",
+                "templateType": "segments",
+                "topFlexId": "flxSampleRowTemplate"
+            },
+            "b7dc3c5a3ed54f568de5a0dcb4dd2056": {
+                "appName": "AmandaAlert",
+                "id": "CopytempSegRow",
+                "templateType": "segments",
+                "topFlexId": "CopyCopyflxRow"
+            },
+            "f01c0bf81ea148e79aa83319709afd2b": {
+                "appName": "AmandaAlert",
+                "id": "Form2",
+                "relFormId": "Form2",
+                "templateType": "forms",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            },
+            "f1f52416095e4d538f43753bd1cdfdc4": {
+                "appName": "AmandaAlert",
+                "id": "CopytempNewsDetails",
+                "templateType": "segments",
+                "topFlexId": "CopyFlexContainer"
+            },
+            "ff5d9d5847fc4881bdd8935ad1f4d63d": {
+                "appName": "AmandaAlert",
+                "id": "tempNewsDetails",
+                "templateType": "segments",
+                "topFlexId": "FlexContainer0f6ec0fa04dea44"
+            },
+            "g1fab9121fd14e55bfb3fd532dd41ac8": {
+                "appName": "AmandaAlert",
+                "id": "Form1",
+                "relFormId": "Form1",
+                "templateType": "forms",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            }
+        },
+        "tablet": {},
+        "userwidgets": {
+            "u4da20672f374536baac09141bc7ecba": {
+                "appName": "AmandaAlert",
+                "id": "com.konymp.newsdetails",
+                "templateType": "userwidgets",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            },
+            "u4f71311f371484ea4349fda66e86bfa": {
+                "appName": "AmandaAlert",
+                "id": "com.konymp.newsdetailsCopy",
+                "templateType": "userwidgets",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            },
+            "ub5d870415ca4015905612d8cadbdd87": {
+                "appName": "AmandaAlert",
+                "id": "ListView.AlertsWithoutThumbnails",
+                "templateType": "userwidgets",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            }
+        }
+    },
+    "userWidgetsKuidToIdMap": {
+        "af0d67c5be8341218c13aba19c6bb87f": {
+            "id": "CopyCopyflxRow",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\ListView.AlertsWithoutThumbnails\\userwidgetmodel.sm"
+        },
+        "b7dc3c5a3ed54f568de5a0dcb4dd2056": {
+            "id": "CopytempSegRow",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\ListView.AlertsWithoutThumbnails\\userwidgetmodel.sm"
+        },
+        "c892faf70098484c8829c71836cb135c": {
+            "id": "CopyFlexContainer",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetailsCopy\\userwidgetmodel.sm"
+        },
+        "f1f52416095e4d538f43753bd1cdfdc4": {
+            "id": "CopytempNewsDetails",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetailsCopy\\userwidgetmodel.sm"
+        },
+        "f80a1dffb0d04871a2eb4228cec04f90": {
+            "id": "FlexContainer0f6ec0fa04dea44",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetails\\userwidgetmodel.sm"
+        },
+        "ff5d9d5847fc4881bdd8935ad1f4d63d": {
+            "id": "tempNewsDetails",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetails\\userwidgetmodel.sm"
+        },
+        "u04c5f7e663c40dab2d214330835ce4a": {
+            "id": "flxReporterDetails",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetails\\userwidgetmodel.sm"
+        },
+        "u0ba47ece4b54fa6b9da719aed7f4a33": {
+            "id": "CopyLabel0e12d8ff34a9942",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetails\\userwidgetmodel.sm"
+        },
+        "u294899638d84312a44b61a94865ca33": {
+            "id": "segList",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\ListView.AlertsWithoutThumbnails\\userwidgetmodel.sm"
+        },
+        "u2ca58e5f0334cab9c1b6d1bb1db7ed3": {
+            "id": "flxReporterDetails",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetailsCopy\\userwidgetmodel.sm"
+        },
+        "u323831c06fe46358abab9dfe8ed83ad": {
+            "id": "Label0e4092c7ef0bc43",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetails\\userwidgetmodel.sm"
+        },
+        "u41f17aaf7324baba47fac33b0f2a7fc": {
+            "id": "flxSubHeading",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetailsCopy\\userwidgetmodel.sm"
+        },
+        "u4b1a492813f4ddeb754d2f9e7bb2b92": {
+            "id": "flxDateTime",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetails\\userwidgetmodel.sm"
+        },
+        "u4da20672f374536baac09141bc7ecba": {
+            "id": "userwidgetmodel",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetails\\userwidgetmodel.sm"
+        },
+        "u4f71311f371484ea4349fda66e86bfa": {
+            "id": "userwidgetmodel",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetailsCopy\\userwidgetmodel.sm"
+        },
+        "u57e4f7c3d0b4b38bbe6af97d40bbbd5": {
+            "id": "lblDateTime",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetails\\userwidgetmodel.sm"
+        },
+        "u5ca5607da5d496199cdcc7256ca4dda": {
+            "id": "flxNewsImage",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetails\\userwidgetmodel.sm"
+        },
+        "u6b16c8b08c349c686de0b88f232fd8f": {
+            "id": "flxNews",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetails\\userwidgetmodel.sm"
+        },
+        "u8cc2be338954a3091e584d992c0aa4f": {
+            "id": "segImage",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetailsCopy\\userwidgetmodel.sm"
+        },
+        "u9684a60a91e4febbec6c80417766ce5": {
+            "id": "flxDateTime",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetailsCopy\\userwidgetmodel.sm"
+        },
+        "u9d9329be9024fce8f787259c8b7caee": {
+            "id": "lblReporterName",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetailsCopy\\userwidgetmodel.sm"
+        },
+        "u9dd9783df9f4dfdb0a99f85f5d743c9": {
+            "id": "segImage",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetails\\userwidgetmodel.sm"
+        },
+        "u9f08a2c4c404a428b2187fd21a3cedf": {
+            "id": "AlertsWithoutThumbnails",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\ListView.AlertsWithoutThumbnails"
+        },
+        "ua063338857b4e7d9d2d23daffe54d9a": {
+            "id": "Label0e4092c7ef0bc43",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetailsCopy\\userwidgetmodel.sm"
+        },
+        "ua40f958d51c47f6a12b6c5fdbfb2042": {
+            "id": "flxHeading",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetailsCopy\\userwidgetmodel.sm"
+        },
+        "uab78241c7fd436882ca023bc9d2f39c": {
+            "id": "flxNews",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetailsCopy\\userwidgetmodel.sm"
+        },
+        "uadc9250504243bebe767bd835d84797": {
+            "id": "flxNewsDetails",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetails\\userwidgetmodel.sm"
+        },
+        "ub5d870415ca4015905612d8cadbdd87": {
+            "id": "userwidgetmodel",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\ListView.AlertsWithoutThumbnails\\userwidgetmodel.sm"
+        },
+        "ub83230c51514e5581be9f5db5450130": {
+            "id": "lblNewsheading",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetails\\userwidgetmodel.sm"
+        },
+        "ube109989cf24d1e84058af4ecf029ae": {
+            "id": "lblReporterName",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetails\\userwidgetmodel.sm"
+        },
+        "uc23c3ba111a444ab8dc502f1335e506": {
+            "id": "CopyLabel0e12d8ff34a9942",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetailsCopy\\userwidgetmodel.sm"
+        },
+        "uc443d95daba4bacbce238f7a4ed3667": {
+            "id": "lblNewsheading",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetailsCopy\\userwidgetmodel.sm"
+        },
+        "ucd4326c07b9484884807558d32f8265": {
+            "id": "flxHeading",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetails\\userwidgetmodel.sm"
+        },
+        "udab8441e2784a0fb27b2aa107e92ffe": {
+            "id": "flxNewsDetails",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetailsCopy\\userwidgetmodel.sm"
+        },
+        "ue2e5b9d568a4c15b792c8d1cc0da8cc": {
+            "id": "flxSubHeading",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetails\\userwidgetmodel.sm"
+        },
+        "uf01552dc1444959a42e97916cd91656": {
+            "id": "newsdetailsCopy",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetailsCopy"
+        },
+        "uf09b7d5bfa94edaa3059b40e6955263": {
+            "id": "flxNewsImage",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetailsCopy\\userwidgetmodel.sm"
+        },
+        "uf2b171420d449caba1873e25154d7d7": {
+            "id": "lblDateTime",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetailsCopy\\userwidgetmodel.sm"
+        },
+        "uf6fb258041f48eb9370f48f9d616f7a": {
+            "id": "newsdetails",
+            "path": "E:\\ResidenciaDEV\\temenostraining\\AmandaAlert\\userwidgets\\com.konymp.newsdetails"
+        }
+    }
+}

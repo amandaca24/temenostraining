@@ -1,0 +1,41 @@
+{
+    "AS_FlexContainer_bdb477dd4324429ebca4628d10063658": {
+        "id": "AS_FlexContainer_bdb477dd4324429ebca4628d10063658",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d15e64a0086a47debdffc8c010557fb5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_SERVICE_c2aca35c825a4a6ea2a627b35b92268a",
+            "type": "INVOKE_ASYNC_SERVICE",
+            "inputparams": null,
+            "httpheaders": null,
+            "httpconfigs": null,
+            "isasynchronous": true,
+            "mappings": {},
+            "mappingsOrder": [],
+            "serviceconfig": {
+                "servicename": "News",
+                "serviceid": "b81bdd54-114b-410f-b616-00fda1b8e2e3",
+                "type": "integration",
+                "operationname": "GetNews",
+                "operationid": "6127254"
+            },
+            "enableMappingEditor": true
+        }]
+    }
+}

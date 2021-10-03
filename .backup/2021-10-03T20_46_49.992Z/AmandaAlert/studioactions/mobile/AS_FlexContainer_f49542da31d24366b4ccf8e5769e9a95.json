@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_f49542da31d24366b4ccf8e5769e9a95": {
+        "id": "AS_FlexContainer_f49542da31d24366b4ccf8e5769e9a95",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "g1fab9121fd14e55bfb3fd532dd41ac8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__b03175fe788148369abde072078aa2c6",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Form2",
+            "formKUID": "f01c0bf81ea148e79aa83319709afd2b",
+            "projectName": "ProjetoTeste",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

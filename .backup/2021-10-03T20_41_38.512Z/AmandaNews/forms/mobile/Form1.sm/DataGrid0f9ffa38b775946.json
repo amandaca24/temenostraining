@@ -1,0 +1,108 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTable",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "col1": ""
+        },
+        {
+            "col1": ""
+        },
+        {
+            "col1": ""
+        },
+        {
+            "col1": ""
+        },
+        {
+            "col1": ""
+        },
+        {
+            "col1": ""
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "94.06%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "cellBorder": "2px solid #F4F4F4",
+    "columnheadersconfig": [
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderTemplate": null,
+            "columnHeaderText": "News",
+            "columnHeaderType": "text",
+            "columnID": "col1",
+            "columnOnClick": null,
+            "columnText": "Not Defined",
+            "columnType": "text",
+            "columnWidthInPercentage": 33,
+            "ide_onClick": "AS_DataGrid_ce5ca4f771f24e569f4133d476ef11cd",
+            "isColumnSortable": false,
+            "kuid": "acdeab35026d430faa1b8276b1116b41"
+        }
+    ],
+    "columnids": [
+        "col1"
+    ],
+    "columntype": [
+        "text"
+    ],
+    "containerweight": 100,
+    "contentalignment": 5,
+    "counter": "50",
+    "focusedindex": null,
+    "focuseditem": null,
+    "gridlinestyle": "solid",
+    "headerskin": "s531377191b24e569a113c8f907347ee",
+    "id": "DataGrid0f9ffa38b775946",
+    "ide_onTouchStart": "AS_DataGrid_ede34a8d3bc14ec6ad009973bbf32909",
+    "info": null,
+    "iscustomlayout": false,
+    "ismultiselect": false,
+    "isvisible": true,
+    "kuid": "eac1f272c7c841d2827e98c2608ad307",
+    "name": "kony.ui.DataGrid",
+    "parent": "FlexScrollGroup0j923d626aba94f",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "rowalternateskin": "s7a32f1589d04324ab40e852fff1bdc9",
+    "rowcount": 6,
+    "rowfocusskin": "sb2ea4fdecf04b66b6770341970ddb34",
+    "rownormalskin": "s67746251a9c4c269eb54053e53c578e",
+    "selectedcellindex": null,
+    "selectedcellitem": null,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditem": null,
+    "selecteditems": null,
+    "showcolumnheaders": true,
+    "wType": "DataGrid",
+    "zindex": 1
+}

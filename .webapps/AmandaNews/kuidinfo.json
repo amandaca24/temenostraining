@@ -1,0 +1,156 @@
+{
+    "idToKuidMapping": {
+        "androidwear": {},
+        "desktop": {},
+        "masters": {},
+        "mobile": {
+            "Form1": "d15e64a0086a47debdffc8c010557fb5",
+            "SampleRowTemplate": "b9a848aaafd04941b4a552d5ccac3416",
+            "SampleSectionHeaderTemplate": "ie1417673aa844b29989aa458a17e46e"
+        },
+        "skins": {
+            "ButtonBorderNegativeActive": "sa03b87b901d4fdba64d41e3fa0fcbcd",
+            "ButtonBorderNegativeNormal": "sf51ae237b4d4246b47ad0af82b840ba",
+            "ButtonBorderPostiveActive": "s26d16f2b04144509ac4e48837fd82a5",
+            "ButtonBorderPostiveNormal": "s90d77420e4c402480ea79c655d51efe",
+            "ButtonRoundFloatShadowSkinFocus": "s7fd3dd28495469ca141a2c5639e005f",
+            "ButtonRoundFloatSkinNormal1": "s25fa48df00440c08f8bace9a176a6e5",
+            "CopyslFbox0f54e6831b2364d": "sc92783b23b441bbb52bcf5fa28b6b13",
+            "CopyslFbox0h819ee2043fa41": "se247aacb5c1460f990f65f1f23a5568",
+            "CopyslFbox2": "s6f569953d504332877ec49388c0d428",
+            "CopyslFontAwesomeIcon0g01a994dbac047": "s6424f07fb5640349a55953bda203cbf",
+            "defTextBoxFocus": "s4c34ab6fc544172adf3b66574fd8826",
+            "defTextBoxNormal": "s336ee20eb144db4bd0aa201e9be60ba",
+            "defTextBoxPlaceholder": "se8e54525fe84136a63e9e791b38c38f",
+            "headerButtonClearSkin": "s6c81f0bd15c439395f974ff8a254fc7",
+            "headerContainerSknMaster": "sea1b32739f3489d806c42f35e7dadd3",
+            "headerIconCartSkin": "s0696c3010af4a22814c5ede15ab175c",
+            "headerLocationIconSkin": "sf9e9238779e460ea6185fc1febd6dad",
+            "headerSearchFieldSkin": "s1d5ce5ed44b4aaabc04ad268624eee0",
+            "headerTitleSkinMaster": "s7a841dab08e4a018f7b6a9ac5313019",
+            "s8cdcc90e1ba42929bb919beacf32867": "s029370231a44dc3bc028ec06b6955dd",
+            "sknLblDescription": "s19738fa1bf84f7e948e3cdd7717ea5c",
+            "sknLblRowHeading": "s4d54cc5daa2471db9202f46a6dfbec1",
+            "sknLblStrip": "s80f0d6b9c5f4016a55f5fca3653e260",
+            "sknLblTimeStamp": "sd0e0397919042f9b6f8b9452a601141",
+            "sknSampleRowTemplate": "s3de29e28ae944f3bb5f21f5908ff22a",
+            "sknSampleSectionHeaderTemplate": "s61f9125b2f64e45a47750bc22a3d94a",
+            "sknSectionHeaderLabelSkin": "s17ae326bff8409aaed6fb0fec2edf27",
+            "slDataGridAltRow": "s7a32f1589d04324ab40e852fff1bdc9",
+            "slDataGridFocusedRow": "sb2ea4fdecf04b66b6770341970ddb34",
+            "slDataGridHead": "s531377191b24e569a113c8f907347ee",
+            "slDataGridRow": "s67746251a9c4c269eb54053e53c578e",
+            "slDynamicNotificationForm": "seac06dee82446e28c68bea9d9c38993",
+            "slFSbox": "s2454b5627dd4b10b366d57239592ace",
+            "slFbox0fe7b304c29874f": "s94758a7a057456889c055a79057764e",
+            "slFontAwesomeIcon": "s8cdcc90e1ba42929bb919beacf32867",
+            "slForm": "sc3faa91faac4cee8bc962b4e454ead7",
+            "slSplashiOS": "s57edac25f6d4a0da11d2475a8db41be",
+            "slStaticNotificationForm": "s39332b1e8dc4c8184d55bcf3455019f",
+            "slTitleBar": "s8c43d7a2a62432d8a7db5375507d30e",
+            "slWatchForm": "s676563d315f410685131277fc044ca8"
+        },
+        "tablet": {},
+        "userwidgets": {}
+    },
+    "kuidDependencyMap": {
+        "s0696c3010af4a22814c5ede15ab175c": [
+            "d15e64a0086a47debdffc8c010557fb5"
+        ],
+        "s17ae326bff8409aaed6fb0fec2edf27": [
+            "ie1417673aa844b29989aa458a17e46e"
+        ],
+        "s19738fa1bf84f7e948e3cdd7717ea5c": [
+            "b9a848aaafd04941b4a552d5ccac3416"
+        ],
+        "s1d5ce5ed44b4aaabc04ad268624eee0": [
+            "d15e64a0086a47debdffc8c010557fb5"
+        ],
+        "s2454b5627dd4b10b366d57239592ace": [
+            "d15e64a0086a47debdffc8c010557fb5"
+        ],
+        "s3de29e28ae944f3bb5f21f5908ff22a": [
+            "b9a848aaafd04941b4a552d5ccac3416"
+        ],
+        "s4d54cc5daa2471db9202f46a6dfbec1": [
+            "b9a848aaafd04941b4a552d5ccac3416"
+        ],
+        "s531377191b24e569a113c8f907347ee": [
+            "d15e64a0086a47debdffc8c010557fb5"
+        ],
+        "s61f9125b2f64e45a47750bc22a3d94a": [
+            "ie1417673aa844b29989aa458a17e46e"
+        ],
+        "s67746251a9c4c269eb54053e53c578e": [
+            "d15e64a0086a47debdffc8c010557fb5"
+        ],
+        "s6c81f0bd15c439395f974ff8a254fc7": [
+            "d15e64a0086a47debdffc8c010557fb5"
+        ],
+        "s7a32f1589d04324ab40e852fff1bdc9": [
+            "d15e64a0086a47debdffc8c010557fb5"
+        ],
+        "s7a841dab08e4a018f7b6a9ac5313019": [
+            "d15e64a0086a47debdffc8c010557fb5"
+        ],
+        "s80f0d6b9c5f4016a55f5fca3653e260": [
+            "b9a848aaafd04941b4a552d5ccac3416"
+        ],
+        "s8c43d7a2a62432d8a7db5375507d30e": [
+            "d15e64a0086a47debdffc8c010557fb5"
+        ],
+        "s8cdcc90e1ba42929bb919beacf32867": [
+            "d15e64a0086a47debdffc8c010557fb5"
+        ],
+        "sb2ea4fdecf04b66b6770341970ddb34": [
+            "d15e64a0086a47debdffc8c010557fb5"
+        ],
+        "sc3faa91faac4cee8bc962b4e454ead7": [
+            "d15e64a0086a47debdffc8c010557fb5"
+        ],
+        "sc92783b23b441bbb52bcf5fa28b6b13": [
+            "d15e64a0086a47debdffc8c010557fb5"
+        ],
+        "sd0e0397919042f9b6f8b9452a601141": [
+            "b9a848aaafd04941b4a552d5ccac3416"
+        ],
+        "se247aacb5c1460f990f65f1f23a5568": [
+            "d15e64a0086a47debdffc8c010557fb5"
+        ],
+        "sea1b32739f3489d806c42f35e7dadd3": [
+            "d15e64a0086a47debdffc8c010557fb5"
+        ]
+    },
+    "kuidInfo": {
+        "androidwear": {},
+        "desktop": {},
+        "masters": {},
+        "mobile": {
+            "b9a848aaafd04941b4a552d5ccac3416": {
+                "appName": "AmandaNews",
+                "id": "SampleRowTemplate",
+                "templateType": "segments",
+                "topFlexId": "flxSampleRowTemplate"
+            },
+            "d15e64a0086a47debdffc8c010557fb5": {
+                "appName": "AmandaNews",
+                "id": "Form1",
+                "relFormId": "Form1",
+                "templateType": "forms",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            },
+            "ie1417673aa844b29989aa458a17e46e": {
+                "appName": "AmandaNews",
+                "id": "SampleSectionHeaderTemplate",
+                "templateType": "segments",
+                "topFlexId": "flxSectionHeaderTemplate"
+            }
+        },
+        "tablet": {},
+        "userwidgets": {}
+    },
+    "userWidgetsKuidToIdMap": {}
+}

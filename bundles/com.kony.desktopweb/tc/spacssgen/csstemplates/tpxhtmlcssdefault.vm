@@ -1,0 +1,19 @@
+  .konyxmenuitem {
+           color : blue;    
+                font-weight : normal;    
+                font-size : $font-size;
+                font-style : normal;
+                
+        }
+    .konyxlabel {
+           color : black;    
+                font-weight : normal;    
+                font-style : normal;
+                font-size: $font-size;
+                }
+
+    .konyrow {
+         padding: 2px;
+    }
+    
+

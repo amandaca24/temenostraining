@@ -1,0 +1,147 @@
+{
+    "controllerTemplateInfoMapping": {
+        "iphone": {
+            "flxSampleRowTemplateController_mobile": [
+                "flxSampleRowTemplateController"
+            ],
+            "flxSectionHeaderTemplateController_mobile": [
+                "flxSectionHeaderTemplateController"
+            ]
+        },
+        "spaip": {
+            "flxSampleRowTemplateController_mobile": [
+                "flxSampleRowTemplateController"
+            ],
+            "flxSectionHeaderTemplateController_mobile": [
+                "flxSectionHeaderTemplateController"
+            ]
+        }
+    },
+    "controllerformInfoMapping": {
+        "iphone": {
+            "Form1Controller_mobile": [
+                "Form1Controller"
+            ]
+        },
+        "spaip": {
+            "Form1Controller_mobile": [
+                "Form1Controller"
+            ]
+        }
+    },
+    "formControllerInfoMapping": {
+        "iphone": {
+            "Form1": {
+                "controllerActionDir": "Form1Controller",
+                "controllerChannel": "mobile",
+                "controllerName": "Form1Controller"
+            }
+        },
+        "spaip": {
+            "Form1": {
+                "controllerActionDir": "Form1Controller",
+                "controllerChannel": "mobile",
+                "controllerName": "Form1Controller"
+            }
+        }
+    },
+    "formsifcMapping": {
+        "iphone": {
+            "Form1": {
+                "appName": "AmandaNews",
+                "controllerInfo": {
+                    "controllerActionName": "Form1Controller",
+                    "controllerChannel": "mobile",
+                    "controllerName": "Form1Controller"
+                },
+                "enableModelDriven": false,
+                "friendlyName": "Form1"
+            }
+        },
+        "spaip": {
+            "Form1": {
+                "appName": "AmandaNews",
+                "controllerInfo": {
+                    "controllerActionName": "Form1Controller",
+                    "controllerChannel": "mobile",
+                    "controllerName": "Form1Controller"
+                },
+                "enableModelDriven": false,
+                "friendlyName": "Form1"
+            }
+        }
+    },
+    "templateControllerInfoMapping": {
+        "iphone": {
+            "SampleRowTemplate": {
+                "controllerActionDir": "flxSampleRowTemplateController",
+                "controllerChannel": "mobile",
+                "controllerName": "flxSampleRowTemplateController"
+            },
+            "SampleSectionHeaderTemplate": {
+                "controllerActionDir": "flxSectionHeaderTemplateController",
+                "controllerChannel": "mobile",
+                "controllerName": "flxSectionHeaderTemplateController"
+            }
+        },
+        "spaip": {
+            "SampleRowTemplate": {
+                "controllerActionDir": "flxSampleRowTemplateController",
+                "controllerChannel": "mobile",
+                "controllerName": "flxSampleRowTemplateController"
+            },
+            "SampleSectionHeaderTemplate": {
+                "controllerActionDir": "flxSectionHeaderTemplateController",
+                "controllerChannel": "mobile",
+                "controllerName": "flxSectionHeaderTemplateController"
+            }
+        }
+    },
+    "templatesifcMapping": {
+        "iphone": {
+            "flxSampleRowTemplate": {
+                "appName": "AmandaNews",
+                "controllerInfo": {
+                    "controllerActionName": "flxSampleRowTemplateController",
+                    "controllerChannel": "mobile",
+                    "controllerName": "flxSampleRowTemplateController"
+                },
+                "friendlyName": "flxSampleRowTemplate",
+                "templateId": "flxSampleRowTemplate"
+            },
+            "flxSectionHeaderTemplate": {
+                "appName": "AmandaNews",
+                "controllerInfo": {
+                    "controllerActionName": "flxSectionHeaderTemplateController",
+                    "controllerChannel": "mobile",
+                    "controllerName": "flxSectionHeaderTemplateController"
+                },
+                "friendlyName": "flxSectionHeaderTemplate",
+                "templateId": "flxSectionHeaderTemplate"
+            }
+        },
+        "spaip": {
+            "flxSampleRowTemplate": {
+                "appName": "AmandaNews",
+                "controllerInfo": {
+                    "controllerActionName": "flxSampleRowTemplateController",
+                    "controllerChannel": "mobile",
+                    "controllerName": "flxSampleRowTemplateController"
+                },
+                "friendlyName": "flxSampleRowTemplate",
+                "templateId": "flxSampleRowTemplate"
+            },
+            "flxSectionHeaderTemplate": {
+                "appName": "AmandaNews",
+                "controllerInfo": {
+                    "controllerActionName": "flxSectionHeaderTemplateController",
+                    "controllerChannel": "mobile",
+                    "controllerName": "flxSectionHeaderTemplateController"
+                },
+                "friendlyName": "flxSectionHeaderTemplate",
+                "templateId": "flxSectionHeaderTemplate"
+            }
+        }
+    },
+    "userwidgetsifcMapping": {}
+}

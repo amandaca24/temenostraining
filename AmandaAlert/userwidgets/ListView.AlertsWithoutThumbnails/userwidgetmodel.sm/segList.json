@@ -1,0 +1,249 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "05",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segList",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "u294899638d84312a44b61a94865ca33",
+    "masterdata": {},
+    "mobile": {
+        "_data_": [
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron.png"
+                },
+                "lblDescription": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "This article is floated online with an intent for an example."
+                },
+                "lblHeading": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "System Notification"
+                },
+                "lblStrip": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "L"
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "2 days ago"
+                }
+            },
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron.png"
+                },
+                "lblDescription": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Here, I focus on a range of items and features that we use in life."
+                },
+                "lblHeading": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "System Notification"
+                },
+                "lblStrip": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Yesterday"
+                }
+            },
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron.png"
+                },
+                "lblDescription": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Having used discount toner cartridges for twenty years, there are"
+                },
+                "lblHeading": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "System Notification"
+                },
+                "lblStrip": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Yesterday"
+                }
+            },
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron.png"
+                },
+                "lblDescription": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "This article is floated online with an intent for an example."
+                },
+                "lblHeading": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "System Notification"
+                },
+                "lblStrip": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Yesterday"
+                }
+            },
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron.png"
+                },
+                "lblDescription": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Here, I focus on a range of items and features that we use in life."
+                },
+                "lblHeading": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "System Notification"
+                },
+                "lblStrip": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "L"
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Yesterday"
+                }
+            },
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron.png"
+                },
+                "lblDescription": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "some description to show the property that might reflect into this widget."
+                },
+                "lblHeading": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "System Notification"
+                },
+                "lblStrip": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "2 days ago"
+                }
+            }
+        ],
+        "rowTemplateId": "b7dc3c5a3ed54f568de5a0dcb4dd2056",
+        "rowtemplate": "CopyCopyflxRow",
+        "widgetdatamap": {
+            "CopyCopyflxRow": "CopyCopyflxRow",
+            "imgArrow": "imgArrow",
+            "lblDescription": "lblDescription",
+            "lblHeading": "lblHeading",
+            "lblStrip": "lblStrip",
+            "lblTime": "lblTime"
+        }
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "AlertsWithoutThumbnails",
+    "pf": "userwidgetmodel",
+    "retainselection": false,
+    "rowcounter": 5,
+    "rowfocusskin": "s86bdac5c9cb4a3e9ea8b01a1ea3ae0c",
+    "rowskin": "s1dafb52d1f146e39042e3b87cb8b6d9",
+    "rowtemplate": null,
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s85cc76a8c8f46aea9f9e97c6854271f",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "c8c7cc00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyCopyflxRow": "CopyCopyflxRow",
+        "imgArrow": "imgArrow",
+        "lblDescription": "lblDescription",
+        "lblHeading": "lblHeading",
+        "lblStrip": "lblStrip",
+        "lblTime": "lblTime"
+    },
+    "zindex": 1
+}

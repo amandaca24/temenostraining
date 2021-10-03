@@ -1,0 +1,119 @@
+{
+    "models": {
+        "mobile": {
+            "class": "GraphLinksModel",
+            "linkDataArray": [
+                {
+                    "actionId": "NAVIGATE_TO_FORM__j3fd1c3073d543c6b4c79f474b6ec6b7",
+                    "actionSequenceId": "AS_Button_c2d76ba23e7c4e91af4f82b9e1dfbf3c",
+                    "beautifiedPath": "Form1 > ButtonRound > onTouchStart",
+                    "evt": "ide_onTouchStart",
+                    "from": "g1fab9121fd14e55bfb3fd532dd41ac8",
+                    "isPSP": false,
+                    "points": [
+                        170.6,
+                        106.55449218750002,
+                        196.6,
+                        106.55449218750002,
+                        247.60000000000002,
+                        106.55449218750002,
+                        247.60000000000002,
+                        133.82115885416664,
+                        283.6,
+                        133.82115885416664,
+                        293.6,
+                        133.82115885416664
+                    ],
+                    "to": "f01c0bf81ea148e79aa83319709afd2b",
+                    "widgetKUID": "e3f9c38a94184be1a335142a13b95b3f"
+                },
+                {
+                    "actionId": "NAVIGATE_TO_FORM__b03175fe788148369abde072078aa2c6",
+                    "actionSequenceId": "AS_FlexContainer_f49542da31d24366b4ccf8e5769e9a95",
+                    "beautifiedPath": "Form1 > PaddedButtonRound > onClick",
+                    "evt": "ide_onClick",
+                    "from": "g1fab9121fd14e55bfb3fd532dd41ac8",
+                    "isPSP": false,
+                    "points": [
+                        170.6,
+                        188.3544921875,
+                        180.6,
+                        188.3544921875,
+                        180.6,
+                        188.35449218749997,
+                        180.6,
+                        188.35449218749997,
+                        283.6,
+                        188.35449218749997,
+                        293.6,
+                        188.35449218749997
+                    ],
+                    "to": "f01c0bf81ea148e79aa83319709afd2b",
+                    "widgetKUID": "d5d7cb3175a2429dba26884ff048d7b9"
+                },
+                {
+                    "actionId": "NAVIGATE_TO_FORM__a54e69d12689482c81d142addc65d83b",
+                    "actionSequenceId": "AS_Button_f25acddc489140c3a919d7184e3b8862",
+                    "beautifiedPath": "Form2 > headerButtonLeft > onTouchStart",
+                    "evt": "ide_onTouchStart",
+                    "from": "f01c0bf81ea148e79aa83319709afd2b",
+                    "isPSP": false,
+                    "points": [
+                        293.6,
+                        133.82115885416664,
+                        275.6,
+                        133.82115885416664,
+                        275.6,
+                        133.82115885416667,
+                        275.6,
+                        133.82115885416667,
+                        180.6,
+                        133.82115885416667,
+                        170.6,
+                        133.82115885416667
+                    ],
+                    "to": "g1fab9121fd14e55bfb3fd532dd41ac8",
+                    "widgetKUID": "dd8d2c723ff444ccbe118f37249e3a6a"
+                },
+                {
+                    "actionId": null,
+                    "from": "g1fab9121fd14e55bfb3fd532dd41ac8",
+                    "points": [
+                        169.6,
+                        188.3544921875,
+                        179.6,
+                        188.3544921875,
+                        179.6,
+                        188.3544921875,
+                        179.6,
+                        188.3544921875,
+                        283.60000000000014,
+                        188.3544921875,
+                        293.60000000000014,
+                        188.3544921875
+                    ],
+                    "softLink": true,
+                    "to": "f01c0bf81ea148e79aa83319709afd2b"
+                }
+            ],
+            "nodeDataArray": [
+                {
+                    "formKUID": "g1fab9121fd14e55bfb3fd532dd41ac8",
+                    "formName": "Form1",
+                    "isStartupForm": true,
+                    "key": "g1fab9121fd14e55bfb3fd532dd41ac8",
+                    "loc": "1 24.754492187500013",
+                    "thumbnailURL": "/assets/AmandaAlert/forms/mobile/Form1.sm/.thumbs/default.jpeg"
+                },
+                {
+                    "formKUID": "f01c0bf81ea148e79aa83319709afd2b",
+                    "formName": "Form2",
+                    "isStartupForm": false,
+                    "key": "f01c0bf81ea148e79aa83319709afd2b",
+                    "loc": "293.6 24.7544921875",
+                    "thumbnailURL": "/assets/AmandaAlert/forms/mobile/Form2.sm/.thumbs/default.jpeg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "FP": {
+        "spabb": false,
+        "desktopweb": false,
+        "iphone": true,
+        "spaip": true,
+        "android": false,
+        "spaan": false,
+        "winphone8": false,
+        "spawinphone8": false,
+        "ipad": false,
+        "spaipad": false,
+        "tabrcandroid": false,
+        "spaandroidtablet": false,
+        "windows8": false,
+        "spawindowstablet": false
+    },
+    "general": {
+        "codeEditor": {
+            "externalEditor": {
+                "displayName": "Sublime",
+                "installPath": "C:\\Program Files\\Sublime Text 3\\sublime_text.exe"
+            }
+        },
+        "proxyConfig": {},
+        "remoteMACConfig": {},
+        "testRecorder": {
+            "port": 9111
+        }
+    },
+    "build": {},
+    "previewMode": "debug"
+}

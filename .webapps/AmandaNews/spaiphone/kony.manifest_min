@@ -1,0 +1,17 @@
+CACHE MANIFEST
+#Time stamp 1633293911270
+#Version 1.0.0
+
+CACHE:
+
+jslib/konyframework.js
+appjs/app.js
+appjs/kvmodules.js
+
+
+
+
+
+
+NETWORK:
+*

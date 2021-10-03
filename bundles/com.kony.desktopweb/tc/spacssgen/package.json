@@ -1,0 +1,22 @@
+{
+  "name": "spacssgen",
+  "version": "8.0.0",
+  "private": true,
+  "description": "spa css generation",
+  "author": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "BSD",
+  "dependencies": {
+    "log4js": "1.1.1",
+    "config": "1.29.2",
+    "blueimp-tmpl": "2.3.0",
+    "velocity": "0.7.2",
+    "js-beautify": "1.6.14",
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6"
+  }
+}

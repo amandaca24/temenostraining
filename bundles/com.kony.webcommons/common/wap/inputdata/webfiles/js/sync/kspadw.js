@@ -1,0 +1,1 @@
+kony.application.setApplicationBehaviors({'FormControllerSyncLoad':true});

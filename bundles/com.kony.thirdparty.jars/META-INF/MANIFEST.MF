@@ -1,0 +1,485 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.kony.thirdparty.jars
+Require-Bundle: org.eclipse.jface
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Eclipse-BuddyPolicy: registered
+Bundle-Vendor: Kony, Inc.
+Ant-Version: Apache Ant 1.8.2
+Export-Package: .,antlr,antlr.ASdebug,antlr.actions.cpp,antlr.actions.
+ csharp,antlr.actions.java,antlr.actions.python,antlr.build,antlr.coll
+ ections,antlr.collections.impl,antlr.debug,antlr.debug.misc,antlr.pre
+ processor,ca.odell.glazedlists,com.fasterxml.jackson.annotation,com.f
+ asterxml.jackson.core,com.fasterxml.jackson.core.base,com.fasterxml.j
+ ackson.core.format,com.fasterxml.jackson.core.io,com.fasterxml.jackso
+ n.core.json,com.fasterxml.jackson.core.sym,com.fasterxml.jackson.core
+ .type,com.fasterxml.jackson.core.util,com.gentlyweb.utils,com.google.
+ gson,com.google.gson.annotations,com.google.gson.reflect,com.ibm.wsdl
+ ,com.ibm.wsdl.extensions,com.ibm.wsdl.extensions.http,com.ibm.wsdl.ex
+ tensions.mime,com.ibm.wsdl.extensions.schema,com.ibm.wsdl.extensions.
+ soap,com.ibm.wsdl.factory,com.ibm.wsdl.util,com.ibm.wsdl.util.xml,com
+ .ibm.wsdl.xml,com.konylabs.iphone.transformer,com.konylabs.iphone.tra
+ nsformer.api.grammer,com.konylabs.iphone.transformer.lua.grammer,com.
+ konylabs.iphone.transformer.scopes,com.konylabs.transformer,com.konyl
+ abs.transformer.api.grammer,com.konylabs.transformer.lua.grammer,com.
+ konylabs.transformer.scopes,com.sun.activation.registries,com.sun.act
+ ivation.viewers,com.sun.appserv,com.sun.appserv.server.util,com.sun.a
+ ppserv.util.cache,com.sun.appserv.util.cache.mbeans,com.sun.common.ut
+ il.logging,com.sun.el,com.sun.el.lang,com.sun.el.parser,com.sun.el.ut
+ il,com.sun.enterprise.web.io,com.sun.mail.handlers,com.sun.mail.iap,c
+ om.sun.mail.imap,com.sun.mail.imap.protocol,com.sun.mail.pop3,com.sun
+ .mail.smtp,com.sun.mail.util,com.sun.org.apache.commons.logging,com.s
+ un.org.apache.commons.logging.impl,ise.antelope.tasks,ise.antelope.ta
+ sks.condition,ise.antelope.tasks.password,ise.antelope.tasks.typedefs
+ ,ise.antelope.tasks.typedefs.file,ise.antelope.tasks.typedefs.string,
+ ise.antelope.tasks.util,ise.antelope.tasks.util.math,ise.library,ise.
+ library.ascii,javax.activation,javax.el,javax.mail,javax.mail.event,j
+ avax.mail.internet,javax.mail.search,javax.mail.util,javax.servlet,ja
+ vax.servlet.http,javax.servlet.jsp,javax.servlet.jsp.el,javax.servlet
+ .jsp.jstl.core,javax.servlet.jsp.jstl.fmt,javax.servlet.jsp.jstl.sql,
+ javax.servlet.jsp.jstl.tlv,javax.servlet.jsp.tagext,javax.wsdl,javax.
+ wsdl.extensions,javax.wsdl.extensions.http,javax.wsdl.extensions.mime
+ ,javax.wsdl.extensions.schema,javax.wsdl.extensions.soap,javax.wsdl.f
+ actory,javax.wsdl.xml,javax.xml,javax.xml.messaging,javax.xml.namespa
+ ce,javax.xml.rpc,javax.xml.rpc.encoding,javax.xml.rpc.handler,javax.x
+ ml.rpc.handler.soap,javax.xml.rpc.holders,javax.xml.rpc.server,javax.
+ xml.rpc.soap,javax.xml.stream,javax.xml.stream.events,javax.xml.strea
+ m.util,junit.extensions,junit.framework,junit.runner,junit.textui,net
+ .sf.antcontrib.antclipse,net.sf.antcontrib.antserver,net.sf.antcontri
+ b.antserver.client,net.sf.antcontrib.antserver.commands,net.sf.antcon
+ trib.antserver.server,net.sf.antcontrib.inifile,net.sf.antcontrib.inp
+ ut,net.sf.antcontrib.logic,net.sf.antcontrib.logic.condition,net.sf.a
+ ntcontrib.net,net.sf.antcontrib.perf,net.sf.antcontrib.platform,net.s
+ f.antcontrib.process,net.sf.antcontrib.property,net.sf.antcontrib.wal
+ ls,net.sf.ezmorph,net.sf.ezmorph.array,net.sf.ezmorph.bean,net.sf.ezm
+ orph.object,net.sf.ezmorph.primitive,net.sf.ezmorph.test,net.sf.json,
+ net.sf.json.filters,net.sf.json.groovy,net.sf.json.processors,net.sf.
+ json.regexp,net.sf.json.test,net.sf.json.util,net.sf.json.xml,nu.vali
+ dator.htmlparser.annotation,nu.validator.htmlparser.common,nu.validat
+ or.htmlparser.dom,nu.validator.htmlparser.extra,nu.validator.htmlpars
+ er.impl,nu.validator.htmlparser.io,nu.validator.htmlparser.rewindable
+ ,nu.validator.htmlparser.sax,nu.validator.htmlparser.test,nu.validato
+ r.htmlparser.tools,nu.validator.htmlparser.xom,nu.validator.saxtree,o
+ rg.antlr,org.antlr.analysis,org.antlr.codegen,org.antlr.grammar.v2,or
+ g.antlr.grammar.v3,org.antlr.gunit,org.antlr.gunit.swingui,org.antlr.
+ gunit.swingui.model,org.antlr.gunit.swingui.parsers,org.antlr.gunit.s
+ wingui.runner,org.antlr.misc,org.antlr.runtime,org.antlr.runtime.debu
+ g,org.antlr.runtime.misc,org.antlr.runtime.tree,org.antlr.stringtempl
+ ate,org.antlr.stringtemplate.language,org.antlr.stringtemplate.misc,o
+ rg.antlr.tool,org.apache.commons.beanutils,org.apache.commons.beanuti
+ ls.converters,org.apache.commons.beanutils.locale,org.apache.commons.
+ beanutils.locale.converters,org.apache.commons.codec,org.apache.commo
+ ns.codec.binary,org.apache.commons.codec.digest,org.apache.commons.co
+ dec.language,org.apache.commons.codec.net,org.apache.commons.collecti
+ ons,org.apache.commons.collections.bag,org.apache.commons.collections
+ .bidimap,org.apache.commons.collections.buffer,org.apache.commons.col
+ lections.collection,org.apache.commons.collections.comparators,org.ap
+ ache.commons.collections.functors,org.apache.commons.collections.iter
+ ators,org.apache.commons.collections.keyvalue,org.apache.commons.coll
+ ections.list,org.apache.commons.collections.map,org.apache.commons.co
+ llections.set,org.apache.commons.discovery,org.apache.commons.discove
+ ry.ant,org.apache.commons.discovery.jdk,org.apache.commons.discovery.
+ log,org.apache.commons.discovery.resource,org.apache.commons.discover
+ y.resource.classes,org.apache.commons.discovery.resource.names,org.ap
+ ache.commons.discovery.tools,org.apache.commons.httpclient,org.apache
+ .commons.httpclient.auth,org.apache.commons.httpclient.contrib.ssl,or
+ g.apache.commons.httpclient.cookie,org.apache.commons.httpclient.meth
+ ods,org.apache.commons.httpclient.methods.multipart,org.apache.common
+ s.httpclient.params,org.apache.commons.httpclient.protocol,org.apache
+ .commons.httpclient.util,org.apache.commons.lang,org.apache.commons.l
+ ang.builder,org.apache.commons.lang.enums,org.apache.commons.lang.exc
+ eption,org.apache.commons.lang.math,org.apache.commons.lang.mutable,o
+ rg.apache.commons.lang.text,org.apache.commons.lang.time,org.apache.c
+ ommons.logging,org.apache.commons.logging.impl,org.apache.commons.ssl
+ ,org.apache.commons.ssl.asn1,org.apache.commons.ssl.rmi,org.apache.co
+ mmons.ssl.util,org.apache.html.dom,org.apache.http.entity.mime,org.ap
+ ache.http.entity.mime.content,org.apache.jasper,org.apache.jasper.com
+ piler,org.apache.jasper.compiler.tagplugin,org.apache.jasper.runtime,
+ org.apache.jasper.security,org.apache.jasper.servlet,org.apache.jaspe
+ r.tagplugins.jstl,org.apache.jasper.util,org.apache.jasper.xmlparser,
+ org.apache.log4j,org.apache.log4j.chainsaw,org.apache.log4j.config,or
+ g.apache.log4j.helpers,org.apache.log4j.jdbc,org.apache.log4j.jmx,org
+ .apache.log4j.lf5,org.apache.log4j.lf5.util,org.apache.log4j.lf5.view
+ er,org.apache.log4j.lf5.viewer.categoryexplorer,org.apache.log4j.lf5.
+ viewer.configure,org.apache.log4j.net,org.apache.log4j.nt,org.apache.
+ log4j.or,org.apache.log4j.or.jms,org.apache.log4j.or.sax,org.apache.l
+ og4j.spi,org.apache.log4j.varia,org.apache.log4j.xml,org.apache.oro.i
+ o,org.apache.oro.text,org.apache.oro.text.awk,org.apache.oro.text.per
+ l,org.apache.oro.text.regex,org.apache.oro.util,org.apache.poi,org.ap
+ ache.poi.ss.usermodel,org.apache.poi.xssf.usermodel,org.apache.taglib
+ s.standard,org.apache.taglibs.standard.extra.spath,org.apache.taglibs
+ .standard.functions,org.apache.taglibs.standard.lang.jstl,org.apache.
+ taglibs.standard.lang.jstl.parser,org.apache.taglibs.standard.lang.js
+ tl.test,org.apache.taglibs.standard.lang.jstl.test.beans,org.apache.t
+ aglibs.standard.lang.support,org.apache.taglibs.standard.resources,or
+ g.apache.taglibs.standard.tag.common.core,org.apache.taglibs.standard
+ .tag.common.fmt,org.apache.taglibs.standard.tag.common.sql,org.apache
+ .taglibs.standard.tag.common.xml,org.apache.taglibs.standard.tag.el.c
+ ore,org.apache.taglibs.standard.tag.el.fmt,org.apache.taglibs.standar
+ d.tag.el.sql,org.apache.taglibs.standard.tag.el.xml,org.apache.taglib
+ s.standard.tag.rt.core,org.apache.taglibs.standard.tag.rt.fmt,org.apa
+ che.taglibs.standard.tag.rt.sql,org.apache.taglibs.standard.tag.rt.xm
+ l,org.apache.taglibs.standard.tei,org.apache.taglibs.standard.tlv,org
+ .apache.velocity,org.apache.velocity.anakia,org.apache.velocity.app,o
+ rg.apache.velocity.app.event,org.apache.velocity.app.event.implement,
+ org.apache.velocity.app.tools,org.apache.velocity.context,org.apache.
+ velocity.convert,org.apache.velocity.exception,org.apache.velocity.io
+ ,org.apache.velocity.runtime,org.apache.velocity.runtime.directive,or
+ g.apache.velocity.runtime.log,org.apache.velocity.runtime.parser,org.
+ apache.velocity.runtime.parser.node,org.apache.velocity.runtime.resou
+ rce,org.apache.velocity.runtime.resource.loader,org.apache.velocity.r
+ untime.resource.util,org.apache.velocity.runtime.visitor,org.apache.v
+ elocity.servlet,org.apache.velocity.texen,org.apache.velocity.texen.a
+ nt,org.apache.velocity.texen.util,org.apache.velocity.util,org.apache
+ .velocity.util.introspection,org.apache.wml,org.apache.wml.dom,org.ap
+ ache.xerces.dom,org.apache.xerces.dom.events,org.apache.xerces.dom3.a
+ s,org.apache.xerces.impl,org.apache.xerces.impl.dtd,org.apache.xerces
+ .impl.dtd.models,org.apache.xerces.impl.dv,org.apache.xerces.impl.dv.
+ dtd,org.apache.xerces.impl.dv.util,org.apache.xerces.impl.dv.xs,org.a
+ pache.xerces.impl.io,org.apache.xerces.impl.msg,org.apache.xerces.imp
+ l.validation,org.apache.xerces.impl.xpath,org.apache.xerces.impl.xpat
+ h.regex,org.apache.xerces.impl.xs,org.apache.xerces.impl.xs.identity,
+ org.apache.xerces.impl.xs.models,org.apache.xerces.impl.xs.opti,org.a
+ pache.xerces.impl.xs.traversers,org.apache.xerces.impl.xs.util,org.ap
+ ache.xerces.jaxp,org.apache.xerces.jaxp.datatype,org.apache.xerces.ja
+ xp.validation,org.apache.xerces.parsers,org.apache.xerces.util,org.ap
+ ache.xerces.xinclude,org.apache.xerces.xni,org.apache.xerces.xni.gram
+ mars,org.apache.xerces.xni.parser,org.apache.xerces.xpointer,org.apac
+ he.xerces.xs,org.apache.xerces.xs.datatypes,org.apache.xml.serialize,
+ org.apache.xml.serializer,org.apache.xml.serializer.dom3,org.apache.x
+ ml.serializer.utils,org.eclipse.nebula.jface.gridviewer,org.eclipse.n
+ ebula.jface.gridviewer.internal,org.eclipse.nebula.widgets.grid,org.e
+ clipse.nebula.widgets.grid.internal,org.eclipse.nebula.widgets.nattab
+ le,org.eclipse.nebula.widgets.nattable.blink,org.eclipse.nebula.widge
+ ts.nattable.blink.command,org.eclipse.nebula.widgets.nattable.blink.e
+ vent,org.eclipse.nebula.widgets.nattable.columnCategories,org.eclipse
+ .nebula.widgets.nattable.columnCategories.gui,org.eclipse.nebula.widg
+ ets.nattable.columnChooser,org.eclipse.nebula.widgets.nattable.column
+ Chooser.command,org.eclipse.nebula.widgets.nattable.columnChooser.gui
+ ,org.eclipse.nebula.widgets.nattable.columnRename,org.eclipse.nebula.
+ widgets.nattable.columnRename.event,org.eclipse.nebula.widgets.nattab
+ le.command,org.eclipse.nebula.widgets.nattable.config,org.eclipse.neb
+ ula.widgets.nattable.conflation,org.eclipse.nebula.widgets.nattable.c
+ oordinate,org.eclipse.nebula.widgets.nattable.copy.action,org.eclipse
+ .nebula.widgets.nattable.copy.command,org.eclipse.nebula.widgets.natt
+ able.copy.serializing,org.eclipse.nebula.widgets.nattable.data,org.ec
+ lipse.nebula.widgets.nattable.data.convert,org.eclipse.nebula.widgets
+ .nattable.data.validate,org.eclipse.nebula.widgets.nattable.dataset.g
+ enerator,org.eclipse.nebula.widgets.nattable.dataset.pricing,org.ecli
+ pse.nebula.widgets.nattable.dataset.pricing.valuegenerator,org.eclips
+ e.nebula.widgets.nattable.dataset.valuegenerator,org.eclipse.nebula.w
+ idgets.nattable.edit,org.eclipse.nebula.widgets.nattable.edit.action,
+ org.eclipse.nebula.widgets.nattable.edit.command,org.eclipse.nebula.w
+ idgets.nattable.edit.config,org.eclipse.nebula.widgets.nattable.edit.
+ editor,org.eclipse.nebula.widgets.nattable.edit.event,org.eclipse.neb
+ ula.widgets.nattable.edit.gui,org.eclipse.nebula.widgets.nattable.exp
+ ort.excel,org.eclipse.nebula.widgets.nattable.extension.glazedlists,o
+ rg.eclipse.nebula.widgets.nattable.extension.glazedlists.tree,org.ecl
+ ipse.nebula.widgets.nattable.grid,org.eclipse.nebula.widgets.nattable
+ .grid.cell,org.eclipse.nebula.widgets.nattable.grid.command,org.eclip
+ se.nebula.widgets.nattable.grid.data,org.eclipse.nebula.widgets.natta
+ ble.grid.layer,org.eclipse.nebula.widgets.nattable.grid.layer.config,
+ org.eclipse.nebula.widgets.nattable.grid.layer.event,org.eclipse.nebu
+ la.widgets.nattable.group,org.eclipse.nebula.widgets.nattable.group.a
+ ction,org.eclipse.nebula.widgets.nattable.group.command,org.eclipse.n
+ ebula.widgets.nattable.group.config,org.eclipse.nebula.widgets.nattab
+ le.group.event,org.eclipse.nebula.widgets.nattable.group.gui,org.ecli
+ pse.nebula.widgets.nattable.group.model,org.eclipse.nebula.widgets.na
+ ttable.group.painter,org.eclipse.nebula.widgets.nattable.hideshow,org
+ .eclipse.nebula.widgets.nattable.hideshow.command,org.eclipse.nebula.
+ widgets.nattable.hideshow.event,org.eclipse.nebula.widgets.nattable.l
+ ayer,org.eclipse.nebula.widgets.nattable.layer.cell,org.eclipse.nebul
+ a.widgets.nattable.layer.config,org.eclipse.nebula.widgets.nattable.l
+ ayer.event,org.eclipse.nebula.widgets.nattable.layer.stack,org.eclips
+ e.nebula.widgets.nattable.painter,org.eclipse.nebula.widgets.nattable
+ .painter.cell,org.eclipse.nebula.widgets.nattable.painter.cell.decora
+ tor,org.eclipse.nebula.widgets.nattable.painter.layer,org.eclipse.neb
+ ula.widgets.nattable.paste,org.eclipse.nebula.widgets.nattable.persis
+ tence,org.eclipse.nebula.widgets.nattable.print,org.eclipse.nebula.wi
+ dgets.nattable.print.action,org.eclipse.nebula.widgets.nattable.print
+ .command,org.eclipse.nebula.widgets.nattable.print.config,org.eclipse
+ .nebula.widgets.nattable.reorder,org.eclipse.nebula.widgets.nattable.
+ reorder.action,org.eclipse.nebula.widgets.nattable.reorder.command,or
+ g.eclipse.nebula.widgets.nattable.reorder.config,org.eclipse.nebula.w
+ idgets.nattable.reorder.event,org.eclipse.nebula.widgets.nattable.res
+ ize,org.eclipse.nebula.widgets.nattable.resize.action,org.eclipse.neb
+ ula.widgets.nattable.resize.command,org.eclipse.nebula.widgets.nattab
+ le.resize.config,org.eclipse.nebula.widgets.nattable.resize.event,org
+ .eclipse.nebula.widgets.nattable.resize.mode,org.eclipse.nebula.widge
+ ts.nattable.search,org.eclipse.nebula.widgets.nattable.search.action,
+ org.eclipse.nebula.widgets.nattable.search.command,org.eclipse.nebula
+ .widgets.nattable.search.config,org.eclipse.nebula.widgets.nattable.s
+ earch.event,org.eclipse.nebula.widgets.nattable.search.gui,org.eclips
+ e.nebula.widgets.nattable.search.strategy,org.eclipse.nebula.widgets.
+ nattable.selection,org.eclipse.nebula.widgets.nattable.selection.acti
+ on,org.eclipse.nebula.widgets.nattable.selection.command,org.eclipse.
+ nebula.widgets.nattable.selection.config,org.eclipse.nebula.widgets.n
+ attable.selection.event,org.eclipse.nebula.widgets.nattable.serializi
+ ng,org.eclipse.nebula.widgets.nattable.sort,org.eclipse.nebula.widget
+ s.nattable.sort.action,org.eclipse.nebula.widgets.nattable.sort.comma
+ nd,org.eclipse.nebula.widgets.nattable.sort.config,org.eclipse.nebula
+ .widgets.nattable.sort.event,org.eclipse.nebula.widgets.nattable.sort
+ .painter,org.eclipse.nebula.widgets.nattable.style,org.eclipse.nebula
+ .widgets.nattable.style.editor,org.eclipse.nebula.widgets.nattable.st
+ yle.editor.command,org.eclipse.nebula.widgets.nattable.summaryrow,org
+ .eclipse.nebula.widgets.nattable.test,org.eclipse.nebula.widgets.natt
+ able.test.fixture,org.eclipse.nebula.widgets.nattable.test.fixture.co
+ mmand,org.eclipse.nebula.widgets.nattable.test.fixture.data,org.eclip
+ se.nebula.widgets.nattable.test.fixture.group,org.eclipse.nebula.widg
+ ets.nattable.test.fixture.layer,org.eclipse.nebula.widgets.nattable.t
+ est.integration,org.eclipse.nebula.widgets.nattable.tickupdate,org.ec
+ lipse.nebula.widgets.nattable.tickupdate.action,org.eclipse.nebula.wi
+ dgets.nattable.tickupdate.command,org.eclipse.nebula.widgets.nattable
+ .tickupdate.config,org.eclipse.nebula.widgets.nattable.tooltip,org.ec
+ lipse.nebula.widgets.nattable.tree,org.eclipse.nebula.widgets.nattabl
+ e.tree.action,org.eclipse.nebula.widgets.nattable.tree.command,org.ec
+ lipse.nebula.widgets.nattable.tree.config,org.eclipse.nebula.widgets.
+ nattable.tree.painter,org.eclipse.nebula.widgets.nattable.ui,org.ecli
+ pse.nebula.widgets.nattable.ui.action,org.eclipse.nebula.widgets.natt
+ able.ui.binding,org.eclipse.nebula.widgets.nattable.ui.matcher,org.ec
+ lipse.nebula.widgets.nattable.ui.menu,org.eclipse.nebula.widgets.natt
+ able.ui.mode,org.eclipse.nebula.widgets.nattable.ui.util,org.eclipse.
+ nebula.widgets.nattable.util,org.eclipse.nebula.widgets.nattable.view
+ port,org.eclipse.nebula.widgets.nattable.viewport.action,org.eclipse.
+ nebula.widgets.nattable.viewport.command,org.eclipse.nebula.widgets.n
+ attable.viewport.event,org.eclipse.nebula.widgets.nattable.widget,org
+ .hamcrest,org.hamcrest.core,org.hamcrest.internal,org.hibernate.diale
+ ct,org.hibernate.service.jdbc.dialect.internal,org.hibernate.service.
+ jdbc.dialect.spi,org.josql,org.josql.events,org.josql.expressions,org
+ .josql.filters,org.josql.functions,org.josql.functions.regexp,org.jos
+ ql.incubator,org.josql.internal,org.josql.parser,org.josql.utils,org.
+ json,org.json.simple,org.json.simple.parser,org.junit,org.junit.exper
+ imental.results,org.junit.experimental.theories,org.junit.experimenta
+ l.theories.internal,org.junit.experimental.theories.suppliers,org.jun
+ it.internal,org.junit.internal.requests,org.junit.internal.runners,or
+ g.junit.matchers,org.junit.runner,org.junit.runner.manipulation,org.j
+ unit.runner.notification,org.junit.runners,org.luaj.compiler,org.luaj
+ .jit,org.luaj.lib,org.luaj.lib.j2me,org.luaj.lib.j2se,org.luaj.platfo
+ rm,org.luaj.script,org.luaj.vm,org.mortbay.component,org.mortbay.io,o
+ rg.mortbay.io.bio,org.mortbay.io.nio,org.mortbay.jetty,org.mortbay.je
+ tty.bio,org.mortbay.jetty.deployer,org.mortbay.jetty.handler,org.mort
+ bay.jetty.nio,org.mortbay.jetty.plus.annotation,org.mortbay.jetty.plu
+ s.jaas,org.mortbay.jetty.plus.jaas.callback,org.mortbay.jetty.plus.ja
+ as.spi,org.mortbay.jetty.plus.naming,org.mortbay.jetty.plus.servlet,o
+ rg.mortbay.jetty.plus.webapp,org.mortbay.jetty.security,org.mortbay.j
+ etty.servlet,org.mortbay.jetty.webapp,org.mortbay.log,org.mortbay.nam
+ ing,org.mortbay.naming.factories,org.mortbay.naming.java,org.mortbay.
+ naming.local,org.mortbay.resource,org.mortbay.servlet,org.mortbay.ser
+ vlet.jetty,org.mortbay.thread,org.mortbay.util,org.mortbay.util.ajax,
+ org.mortbay.xml,org.mozilla.javascript.tools.idswitch,org.w3c.dom.htm
+ l
+Bundle-Name: Third Party Jars Plug-in
+Bundle-Version: 9.0.0.v201911072015
+Bundle-ClassPath: ant-contrib-0.6.jar,AntelopeTasks_3.4.0.jar,antlr-3.
+ 3-complete.jar,commons-beanutils-1.9.2.jar,commons-collections-3.2.2.
+ jar,commons-discovery-0.2.jar,junit-4.4.jar,commons-logging-1.1.1.jar
+ ,commons-httpclient-3.1.jar,ezmorph-1.0.4.jar,gentlyWEB-utils-1.1.jar
+ ,ioscodegen.jar,jaxrpc.jar,jetty-6.1.3.jar,jetty-plus-6.1.3.jar,jetty
+ -util-6.1.3.jar,JoSQL-2.1.jar,json.jar,json-lib-2.2.1-jdk15.jar,jsp-2
+ .1.jar,jsp-api-2.1.jar,jsr173_1.0_api.jar,log4j-1.2.15.jar,luaj-j2se-
+ 1.0.3.jar,mail-1.4.jar,serializer.jar,servlet-api-2.5-6.1.3.jar,trans
+ lator.jar,wsdl4j-1.5.1.jar,xercesImpl.jar,not-yet-commons-ssl-0.3.10.
+ jar,activation.jar,commons-lang-2.4.jar,jetty-naming-6.1.3.jar,veloci
+ ty-dep-1.5.jar,core-3.1.1.jar,httpmime-4.1.1.jar,htmlparser-1.2.1.jar
+ ,poi-ooxml-3.17.jar,xmlbeans-2.3.0.jar,commons-codec-1.7.jar,poi-ooxm
+ l-schemas-3.7-20101029.jar,dom4j-1.6.1.jar,geronimo-stax-api_1.0_spec
+ -1.0.jar,poi-scratchpad-3.7-20101029.jar,gson-2.3.1.jar,jboss-logging
+ -3.1.0.CR2.jar,jboss-transaction-api_1.1_spec-1.0.0.Final.jar,hiberna
+ te-core-4.0.1.Final.jar,MINIFY_SPA.jar,minifyspatemplates.jar,Nebula-
+ Grid_1.0.0.jar,jackson-annotations-2.1.1.jar,jackson-core-2.1.1.jar,j
+ s.jar,jboss-logging-3.1.0.CR2.jar,jboss-transaction-api_1.1_spec-1.0.
+ 0.Final.jar,NatTableExamples-1.0.1.jar,json-simple-1.1.1.jar
+Created-By: 1.6.0_45-b06 (Sun Microsystems Inc.)
+
+Name: geronimo-stax-api_1.0_spec-1.0.jar
+SHA-256-Digest: eklyImV2lOkwscnP+PGXCOLG08f89TiTbcpdd1Tz9fA=
+
+Name: plugin-cleaner.jar
+SHA-256-Digest: iCUhRNjgVuBV5jAICjVe5GX8RRcEQb9s3j2P0yVxjG8=
+
+Name: serializer.jar
+SHA-256-Digest: rU93+JhQMjZ/G82Ns5juO0IeOdAydERcm4TOdku81lg=
+
+Name: platform.properties
+SHA-256-Digest: 3/h5njB9xW84NwsODZux+AFBqnj1Lix/1mi7cIjgC7U=
+
+Name: jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+SHA-256-Digest: rCEm37zY05jktkzQ/coh0tZP9G5ZMmAE3i1jazcDbDU=
+
+Name: commons-httpclient-3.1.jar
+SHA-256-Digest: 29SVPQE+EOfBzDcBo+bM2MlQyJLwjYBPq/rCFwWTBEM=
+
+Name: activation.jar
+SHA-256-Digest: L/7HP50GRsjCeN2fitCXwXX8OUDQ1ajvKcFe/scaaWk=
+
+Name: jsr173_1.0_api.jar
+SHA-256-Digest: DIr6iIu3QExbkzm4jcyMkMFAQu+rbJb2rUN7b+SrOlA=
+
+Name: AntelopeTasks_3.4.0.jar
+SHA-256-Digest: p5MoUHnZfkqVlgsncJxUdVkyeYHHqPJgmPr59s+/YS8=
+
+Name: JoSQL-2.1.jar
+SHA-256-Digest: 4VYN1l+IPUImHHXc1O1RS2IMppr7IUDrouCseAdGICo=
+
+Name: htmlparser-1.2.1.jar
+SHA-256-Digest: d8jZ/l6j6v72PEza+AbDclTXyEhYUOPBuccOp4olVtw=
+
+Name: not-yet-commons-ssl-0.3.10.jar
+SHA-256-Digest: HEO4EyY4KyBrj8Q8CyFirn2zVntBBM57pmKRFWE5IHs=
+
+Name: commons-codec-1.7.jar
+SHA-256-Digest: 24KpSLwHBBT8/TiA69EgXJTfX1xhVYzLxlPsL4IL96Q=
+
+Name: yuicompressor-2.4.6.jar
+SHA-256-Digest: +ynfsZBrMfki0lIh10iFgrcAqdfIswN4D6dYdz1BgKg=
+
+Name: dom4j-1.6.1.jar
+SHA-256-Digest: WTVS/+o8WCPGYCR4tQAqfFJf2QSjxE8avkBlwi7frHM=
+
+Name: jetty-naming-6.1.3.jar
+SHA-256-Digest: TwRC72yHsatNTihucw1LHbqBoLQOdwF3ZBWxZ0yTBP4=
+
+Name: jackson-core-2.1.1.jar
+SHA-256-Digest: 4yN4awb3lAfGiNmPIoJo3PcY75zrR8kymTfa/ozBvcM=
+
+Name: ezmorph-1.0.4.jar
+SHA-256-Digest: IsCbgxOXt/bIr0Soft+Z/o7vL8tlR1ZT1U/tS6tUgKw=
+
+Name: json.jar
+SHA-256-Digest: UYCABJuoMYGRRBnRGiXZvJgzotcptqbnRp+lKFE1bag=
+
+Name: README.txt
+SHA-256-Digest: z1smhm2tfi9c+y8hI/zl7TimYzZuw1jbGo/kWzadr8w=
+
+Name: ant-contrib-0.6.jar
+SHA-256-Digest: xBoc9rEuuchufLAc3MKpkgr7kPA/ikfprAlxAuUOd0w=
+
+Name: migration.jar
+SHA-256-Digest: gzNofo6Ta/rv+VRXEBtIdqEcuaou89LiwjqEFZIXElw=
+
+Name: xercesImpl.jar
+SHA-256-Digest: nFUFHZRz8ajSewDu6xOf2JmDzZOouNoYerrVPqqEw9Q=
+
+Name: httpmime-4.1.1.jar
+SHA-256-Digest: TvxSEmdj9wggjIJL05tdsdU1JWNVsxz2oaRkFL4h9go=
+
+Name: mail-1.4.jar
+SHA-256-Digest: loaPgiZOvZt9QfBNeMvoerddaKe7+O37gkFqq+m1S2w=
+
+Name: commons-collections-3.2.2.jar
+SHA-256-Digest: 7urpF5FxRKaKdB1MDf9mqlxcX9hVk/8he87T/Iyng7g=
+
+Name: luaj-j2se-1.0.3.jar
+SHA-256-Digest: HniNgTK9Lj9bDgxlWPj+ZZEG+8hoSsC8oEMSgwE8gWw=
+
+Name: json-simple-1.1.1.jar
+SHA-256-Digest: EIBFyWdev21uxNjcwzFpP5uUSsfIfeUtzP8sVejfpvE=
+
+Name: js.jar
+SHA-256-Digest: 60y9BaSO5ESIJdoinpQRXmitxsVjjSkCKRThF4xgpsQ=
+
+Name: core-3.1.1.jar
+SHA-256-Digest: +eOc9zJrYNHTAW7ZD63ASfcdMSyXqpfLqvhR1jdnMLo=
+
+Name: json-lib-2.2.1-jdk15.jar
+SHA-256-Digest: 43vMW1Y9LXzNBqAgplLFKtzpmbxuG4i2mVQWQBWHlR4=
+
+Name: jaxrpc.jar
+SHA-256-Digest: f+PwwQiW+0/bk4EX6MnfXRlHxMVmJ77ZLWr7CdGTKgs=
+
+Name: jetty-util-6.1.3.jar
+SHA-256-Digest: JZTh2pRReFTZ7dzilp42ZpjubM9xMdoo4fTpxz7Tu9w=
+
+Name: log4j-1.2.15.jar
+SHA-256-Digest: n19XmXB4gUUaOcGy3SK05DuXqAaY232vHJaX9UXiQ4c=
+
+Name: commons-lang-2.4.jar
+SHA-256-Digest: LHO5QMkSULyYNGkmJw8TpqELtuKdLJMWpw0TTjgshz4=
+
+Name: ioscodegen.jar
+SHA-256-Digest: LUrqVTxEcH4YJoQTjTPGRud9/0A6xwgydNykJys9zyM=
+
+Name: velocity-dep-1.5.jar
+SHA-256-Digest: ji1C4t0/JPDMOB+hzCR3CNnd927FIOHHH6WZC5DwT9o=
+
+Name: wsdl4j-1.5.1.jar
+SHA-256-Digest: dykTTWZvJ6GKw8Z0wWAUYkN2RF7IaGv6YKxkj0ix7Og=
+
+Name: gentlyWEB-utils-1.1.jar
+SHA-256-Digest: A7VnKIuuiGYepeP3/THVNquwk3dyZfttt+scAZn1vwQ=
+
+Name: servlet-api-2.5-6.1.3.jar
+SHA-256-Digest: zfArnOOfTV7kM0dgsrM3HHZRzFV6ic9og2PlSyPQqj8=
+
+Name: hibernate-core-4.0.1.Final.jar
+SHA-256-Digest: p6/BpiqwTUfaBSFqgOlU7lC61pTOn16Nx3kyFX4GaD4=
+
+Name: jetty-plus-6.1.3.jar
+SHA-256-Digest: pfD9fVotTw+o6bO/7zL1XRHxOxnFOl70+UStSEU+cY4=
+
+Name: poi-scratchpad-3.7-20101029.jar
+SHA-256-Digest: 4EvI+nLQCg3ipOzB1oJJfpIKn4ghPiVqdiSTCiUJbv4=
+
+Name: commons-discovery-0.2.jar
+SHA-256-Digest: rpmV7EEs7Co0iaB4eFd5G5zHhPFTtMnQrpPjjF8hdPo=
+
+Name: commons-logging-1.1.1.jar
+SHA-256-Digest: R9DAGkHiiD/edN0WLhaMplxxI94X3lGXOk+CG7aEZqw=
+
+Name: antlr-3.3-complete.jar
+SHA-256-Digest: T+vyg6Afp6iVzjuR+fLR3R9NIj2O2LeZwTqqeq9QKuw=
+
+Name: jsp-api-2.1.jar
+SHA-256-Digest: r4OMqZSe3F9fcfew0ubsnAbPoxcjzY3KWpvGgdpHJYU=
+
+Name: poi-ooxml-3.17.jar
+SHA-256-Digest: rJFVR+o7d1qBDMJhSXEWgqI0BOPW0LI5kVrAyTBe48M=
+
+Name: gson-2.3.1.jar
+SHA-256-Digest: E/RKL26tBY2oCpHuZQwHOHGUJGjmhKm/ag0DGROJJM4=
+
+Name: NatTableExamples-1.0.1.jar
+SHA-256-Digest: 6ez8xCZXr5HRHg9lJ0smoEXWJYQczefaAWr/RUwiyuk=
+
+Name: poi-ooxml-schemas-3.7-20101029.jar
+SHA-256-Digest: lFPCfPZduygKcAi4kQ0K6hNjdmJ35jVpk2HQm5kmvTw=
+
+Name: tcnodejsServer-1.0.jar
+SHA-256-Digest: aFl1Dj1cBn+8S2C68EQ3djDN7LPnb+1Ht23oZ4U5ucg=
+
+Name: jboss-logging-3.1.0.CR2.jar
+SHA-256-Digest: W/yNr5CdMy9iLLD0LkJex83/VaPC9NhV4s2CVmsOd20=
+
+Name: commons-codec-1.3.jar
+SHA-256-Digest: r1FPLZT1VSc0+hm4NWKYTLIrvM5Jdz3nZ7BHj74HFCE=
+
+Name: jetty-6.1.3.jar
+SHA-256-Digest: eoAR0z/+N3YaNEN2Xyy1HVArQ1wRXCYRdxJsN9ylnKw=
+
+Name: jsp-2.1.jar
+SHA-256-Digest: z2BQQbhk5CQBW00aOlS+f9npoDE/dXJe1AeNgHIO6DM=
+
+Name: Nebula-Grid_1.0.0.jar
+SHA-256-Digest: FedeU2szVN9pcyuFrBMb45BgyWgCq2bRhwxp2+KY8Xc=
+
+Name: junit-4.4.jar
+SHA-256-Digest: D2uM7WfX5ywVgA53u+wem1bmFLNC6+v9SQtCaOHP0P8=
+
+Name: xmlbeans-2.3.0.jar
+SHA-256-Digest: eiHpQmiiuFORe3eQKha4czrMOZ0IhIxQwn8X8KhLOto=
+
+Name: MINIFY_SPA.jar
+SHA-256-Digest: LS/A080MITE0Q7I7wZLBo06ZdEHF8InptSQ8mawbzZk=
+
+Name: translator.jar
+SHA-256-Digest: 4cq0mmM1C5p1zK8iSoN/YLe1iQl9dNAiq4DLdq8iOW8=
+
+Name: jackson-annotations-2.1.1.jar
+SHA-256-Digest: 7Xuy4mhlUrhykyHyFz18rCoQ7qLt03eH6XeuMYQcHMg=
+
+Name: commons-beanutils-1.9.2.jar
+SHA-256-Digest: I3KeOiZ37V+xZOyZm6P83eP4Rg5e0Ia2pD2LXUaZjUI=
+
+Name: minifyspatemplates.jar
+SHA-256-Digest: Yindfky6B07KoGsHuVv/Oty+CcZlYZZZONQ5Hosmy9s=
+

@@ -1,0 +1,31 @@
+{
+    "AS_Button_d9f96e7722ca481783cff758e7c131cd": {
+        "id": "AS_Button_d9f96e7722ca481783cff758e7c131cd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form2",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f01c0bf81ea148e79aa83319709afd2b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT_f17512d3f25d4f8589b29be4027879c5",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_INFO",
+            "alertTitle": "Info Input",
+            "alertMessage": "this.view.NotesFieldBoxSingleLine",
+            "messageType": "expression",
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT",
+            "disabled": null
+        }]
+    }
+}

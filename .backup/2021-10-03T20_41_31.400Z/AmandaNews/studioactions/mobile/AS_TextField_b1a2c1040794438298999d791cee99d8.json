@@ -1,0 +1,26 @@
+{
+    "AS_TextField_b1a2c1040794438298999d791cee99d8": {
+        "id": "AS_TextField_b1a2c1040794438298999d791cee99d8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d15e64a0086a47debdffc8c010557fb5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_f5ab800ba29049bdaf516d90b43e6cce",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "\tvar self = this;\n\tAS_TextField_b1a2c1040794438298999d791cee99d8.onDone=onDoneCallback;\n\n      function onDoneCallback(txtBox) {\n          txtBox = AS_TextField_b1a2c1040794438298999d791cee99d8.text;\n          var newsList = [];\n          console.log(txrBox);\n          \n          for(var i = 0; i < self.view.DataGrid0f9ffa38b775946.data.length; i++){\n                var newsItem = self.view.DataGrid0f9ffa38b775946.data.item[i].title;\n              \n                var item = {};\n                item.col1 = newsItem.title;  \n              \n                newsList.push(item);\n            }\n          \n          self.view.DataGrid0f9ffa38b775946.data = newsList;\n            console.log(newsList);\n          \n           \n        }",
+            "parentId": null
+        }]
+    }
+}

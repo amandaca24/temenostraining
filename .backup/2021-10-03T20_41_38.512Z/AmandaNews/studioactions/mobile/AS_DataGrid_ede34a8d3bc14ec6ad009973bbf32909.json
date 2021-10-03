@@ -1,0 +1,24 @@
+{
+    "AS_DataGrid_ede34a8d3bc14ec6ad009973bbf32909": {
+        "id": "AS_DataGrid_ede34a8d3bc14ec6ad009973bbf32909",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d15e64a0086a47debdffc8c010557fb5"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

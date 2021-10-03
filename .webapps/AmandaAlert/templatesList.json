@@ -1,0 +1,46 @@
+{
+    "iphone": {
+        "formslist": {
+            "mvcFormObjects": [
+                "Form1",
+                "Form2"
+            ],
+            "nonmvcFormObjects": []
+        },
+        "templatesList": {
+            "mvcTemplateObjects": [
+                "com.konymp.newsdetails",
+                "com.konymp.newsdetailsCopy",
+                "ListView.AlertsWithoutThumbnails",
+                "CopytempNewsDetails",
+                "CopytempSegRow",
+                "SampleRowTemplate",
+                "SampleSectionHeaderTemplate",
+                "tempNewsDetails"
+            ],
+            "nonmvcTemplateObjects": []
+        }
+    },
+    "spaip": {
+        "formslist": {
+            "mvcFormObjects": [
+                "Form1",
+                "Form2"
+            ],
+            "nonmvcFormObjects": []
+        },
+        "templatesList": {
+            "mvcTemplateObjects": [
+                "com.konymp.newsdetails",
+                "com.konymp.newsdetailsCopy",
+                "ListView.AlertsWithoutThumbnails",
+                "CopytempNewsDetails",
+                "CopytempSegRow",
+                "SampleRowTemplate",
+                "SampleSectionHeaderTemplate",
+                "tempNewsDetails"
+            ],
+            "nonmvcTemplateObjects": []
+        }
+    }
+}

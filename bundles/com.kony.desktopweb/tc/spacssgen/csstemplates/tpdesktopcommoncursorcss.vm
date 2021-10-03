@@ -1,0 +1,7 @@
+#if($cursor-type)
+    #if($cursor-type == "url" && $cursor-image)
+	cursor : url(./images/$cursor-image),auto;
+    #else
+        cursor : $cursor-type;
+    #end
+#end

@@ -1,0 +1,35 @@
+{
+    "AS_Button_c2d76ba23e7c4e91af4f82b9e1dfbf3c": {
+        "id": "AS_Button_c2d76ba23e7c4e91af4f82b9e1dfbf3c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "g1fab9121fd14e55bfb3fd532dd41ac8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__j3fd1c3073d543c6b4c79f474b6ec6b7",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Form2",
+            "formKUID": "f01c0bf81ea148e79aa83319709afd2b",
+            "projectName": "ProjetoTeste",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

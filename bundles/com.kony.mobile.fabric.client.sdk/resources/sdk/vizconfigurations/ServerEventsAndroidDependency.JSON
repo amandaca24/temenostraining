@@ -1,0 +1,3 @@
+{
+  "build_gradle_attrs_suffix" : "dependencies {compile 'com.neovisionaries:nv-websocket-client:2.9'}"
+}

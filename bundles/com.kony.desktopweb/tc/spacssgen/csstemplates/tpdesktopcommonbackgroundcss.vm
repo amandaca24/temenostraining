@@ -1,0 +1,32 @@
+#if($background-color)
+        #if($rgba == "true")
+            #if($wtype=="Button")
+                background : $background-color;
+            #else
+                background-color : $background-color;
+            #end
+        #else
+            #if($wtype=="Button")
+                background : #$background-color;
+            #else
+                #set($bc = "#" + $background-color)
+                background-color: $bc;
+            #end
+        #end
+#elseif($bg-grad-split-ms)
+        #parse("tpdesktopcommoncssbggradient.vm")
+#elseif($background-image)
+       #if($wtype=="Button")
+            #set($buttonwidget = "true")       
+            background-color:transparent;
+       #end
+       #if($wtype == "layout" && !$formwidget)
+            #if($height)
+                #set($hd = $height + "px;")
+                height: $hd
+            #end
+       #end
+       #parse("tpspagenericbgimage.vm")
+#elseif($transparent)
+        background: inherit;
+#end

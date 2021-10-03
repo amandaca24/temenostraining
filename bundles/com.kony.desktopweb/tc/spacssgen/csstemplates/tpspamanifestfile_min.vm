@@ -1,0 +1,35 @@
+CACHE MANIFEST
+#Time stamp $timestamp
+#Version $version
+
+CACHE:
+#set($moduleext = "_kfm.js")
+jslib/konyframework.js
+appjs/app.js
+appjs/kvmodules.js
+#if($platform == "desktopweb")
+konydesktop.css
+#end
+#foreach ($module in $modulesList)
+appjs/$module$moduleext
+#end
+
+##appjs/konymodel.js
+
+#*
+#if($platform == "spaip" || $platform == "ipwrapper" || $platform == "iphybrid" || $platform == "ipadwrapper" || $platform == "ipadhybrid")
+konyspaiphone.css
+#elseif($platform == "spaan" || $platform == "anwrapper" || $platform == "anhybrid" || $platform == "tabandroidwrapper" || $platform == "tabandroidhybrid")
+konyspaandroid.css
+#elseif($platform == "spabb" || $platform == "bbwrapper" || $platform == "bbhybrid")
+konyspabb.css
+#elseif($platform == "spaipad")
+konyspatabletiphone.css
+#elseif($platform == "spatabandroid")
+konyspatabletandroid.css
+#elseif($platform == "spaplaybook")
+konyspatabletbb.css
+#end
+*#
+NETWORK:
+*

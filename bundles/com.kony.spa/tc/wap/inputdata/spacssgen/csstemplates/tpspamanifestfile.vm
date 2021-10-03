@@ -1,0 +1,174 @@
+CACHE MANIFEST
+#Time stamp $timestamp
+#Version $version
+CACHE:
+jslib/konyinit.js
+jslib/konycore.js
+jslib/konysystem.js
+jslib/konyapi.js
+jslib/konytableapi.js
+jslib/konyosapi.js
+jslib/konytimerapi.js
+jslib/konyphoneapi.js
+jslib/konygeolocationapi.js
+jslib/konyhybridapi.js
+jslib/konystringapi.js
+jslib/konymathapi.js
+jslib/konyutils.js
+jslib/konywidgets.js
+jslib/konytouchwidgets.js
+jslib/konyformwidget.js
+jslib/konyappmenu.js
+jslib/konynetwork.js
+jslib/konylabelwidget.js
+jslib/konybuttonwidget.js
+jslib/konytextfieldwidget.js
+jslib/konytextfieldpassword.js
+jslib/konytextfieldautocomplete.js
+jslib/konycomboboxgroup.js
+jslib/konyradiobuttongroup.js
+jslib/konylistboxgroup.js
+jslib/konytextareawidget.js
+jslib/konycheckboxgroup.js
+jslib/konylinkwidget.js
+jslib/konyboxwidget.js
+jslib/konyvboxwidget.js
+jslib/konylinewidget.js
+jslib/konysegmentwidget.js
+jslib/konyimagewidget.js
+jslib/konyHorizontalImagewidget.js
+jslib/konyHorizontalImageGallerywidget.js
+jslib/konyslotviewwidget.js
+jslib/konybrowserwidget.js
+jslib/konydatagridwidget.js
+jslib/konydatabaseapi.js
+jslib/konydatastoreapi.js
+jslib/konymapwidget.js
+jslib/konytabwidget.js
+jslib/konymodel.js
+jslib/konypopup.js
+jslib/konyphone.js
+jslib/konyi18n.js
+jslib/konyscrollerwidget.js
+jslib/konyscrollboxwidget.js
+jslib/konyrichtextwidget.js
+jslib/konyswitchwidget.js
+jslib/konymediawidget.js
+jslib/konythemesapi.js
+jslib/konyconstants.js
+jslib/konyconstcommon.js
+jslib/konycrypto.js
+jslib/konypickerview.js
+jslib/konypickerwidget.js
+jslib/konysliderwidget.js
+jslib/konycalendarwidget.js
+##jslib/cryptojslib-min.js
+
+appjs/app.js
+appjs/kvmodules.js
+
+#*
+appjs/appmodel.js
+jslib/tparty/cal/container.css
+jslib/tparty/cal/calendar.css
+jslib/konycalendarwidget.js
+jslib/tparty/cal/container-min.js
+jslib/tparty/cal/element-min.js
+jslib/tparty/cal/calendar-min.js
+jslib/tparty/cal/yahoo-dom-event.js
+jslib/tparty/crypto/cryptojslib-min.js
+*#
+
+jslib/tparty/picker/mobiscroll-1.6.css
+#if($indexjl == "js")
+jslib/konyJSLib/core/konyJSMapping.js
+jslib/konyJSLib/core/konyJSUtils.js
+jslib/konyJSLib/core/konyapplication.js
+jslib/konyJSLib/ui/konyuiBaseClasses.js
+jslib/konyJSLib/ui/konyuiBasicWidgets.js
+jslib/konyJSLib/ui/konyuiBox.js
+jslib/konyJSLib/ui/konyuiBrowser.js
+jslib/konyJSLib/ui/konyuiCalendar.js
+jslib/konyJSLib/ui/konyuiDataGrid.js
+jslib/konyJSLib/ui/konyuiForm.js
+jslib/konyJSLib/ui/konyuiGroupWidgets.js
+jslib/konyJSLib/ui/konyuiHorizontalImageStrip.js
+jslib/konyJSLib/ui/konyuiImage.js
+jslib/konyJSLib/ui/konyuiImageGallery.js
+jslib/konyJSLib/ui/konyuiMap.js
+jslib/konyJSLib/ui/konyuiPopup.js
+jslib/konyJSLib/ui/konyuiRichText.js
+jslib/konyJSLib/ui/konyuiScrollBox.js
+jslib/konyJSLib/ui/konyuiSegmentedUI.js
+jslib/konyJSLib/ui/konyuiSlider.js
+jslib/konyJSLib/ui/konyuiTabPane.js
+jslib/konyJSLib/ui/konyuiText.js
+jslib/konyJSLib/ui/konyuiVideo.js
+##jslib/konyJSLib/ui/konyuiWebWidget.js
+#else
+jslib/konyLuaLib/ui/konyWidgetNativeMapping.js
+jslib/konyLuaLib/ui/windowBaseClasses.js
+jslib/konyLuaLib/ui/windowBasicWidgets.js
+jslib/konyLuaLib/ui/windowBox.js
+jslib/konyLuaLib/ui/windowBrowser.js
+jslib/konyLuaLib/ui/windowCalendar.js
+jslib/konyLuaLib/ui/windowDataGrid.js
+jslib/konyLuaLib/ui/windowForm.js
+jslib/konyLuaLib/ui/windowGallery.js
+jslib/konyLuaLib/ui/windowGroupWidgets.js
+jslib/konyLuaLib/ui/windowHorizontalImageStrip.js
+jslib/konyLuaLib/ui/windowImage.js
+jslib/konyLuaLib/ui/windowMap.js
+jslib/konyLuaLib/ui/windowPopup.js
+jslib/konyLuaLib/ui/windowRichText.js
+jslib/konyLuaLib/ui/windowScrollBox.js
+jslib/konyLuaLib/ui/windowSegmentedUI.js
+jslib/konyLuaLib/ui/windowSlider.js
+jslib/konyLuaLib/ui/windowTabPane.js
+jslib/konyLuaLib/ui/windowText.js
+jslib/konyLuaLib/ui/windowVideo.js
+#end
+
+
+#if($platform == "desktopweb")
+jslib/konygridlayout.js
+jslib/konymenucontainerwidget.js
+jslib/konyJSLib/ui/konyuiMenuContainer.js
+
+#end
+
+#*
+    #if($platform == "spaip" || $platform == "ipwrapper" || $platform == "iphybrid" || $platform == "ipadwrapper" || $platform == "ipadhybrid")
+        konyspaiphone.css
+    #elseif($platform == "spaan" || $platform == "anwrapper" || $platform == "anhybrid" || $platform == "tabandroidwrapper" || $platform == "tabandroidhybrid")
+        konyspaandroid.css
+        konyspaandroid240.css
+        konyspaandroid320.css
+        konyspaandroid480.css
+        konyspaandroid640.css
+    #elseif($platform == "spabb" || $platform == "bbwrapper" || $platform == "bbhybrid")
+        konyspabb.css
+        konyspabb240.css
+        konyspabb320.css
+        konyspabb480.css
+        konyspabb640.css
+    #elseif($platform == "spaipad")
+        konyspatabletiphone.css
+    #elseif($platform == "spaandroidtablet")
+        konyspatabletandroid.css
+    #elseif($platform == "spawindowstablet")
+        konyspatabletwindows.css
+    #elseif($platform == "spaplaybook")
+        konyspatabletbb.css
+    #elseif($platform == "spabbnth" || $platform == "spawindows")
+        kony${platform}240.css
+        kony${platform}320.css
+        kony${platform}480.css
+    #elseif($platform == "spawinphone8")
+        konyspawindows320.css
+        konyspawindows480.css
+    #end
+*#
+
+NETWORK:
+*
